@@ -87,6 +87,10 @@ module.exports = {
                         {
                             text: '功能性建筑',
                             link: '/guide/functional-buildings'
+                        },
+                        {
+                            text: '旦星 SPS',
+                            link: '/guide/sps'
                         }
                     ]
                 }
