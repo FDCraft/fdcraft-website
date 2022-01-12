@@ -1,0 +1,15 @@
+{
+  "name": "fdcraft-website",
+  "version": "2.0.0",
+  "description": "Official WebSite for FDCraft",
+  "author": "FDCraft",
+  "repository": "https://github.com/fdcraft/fdcraft-website",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.21.4"
+  }
+}
