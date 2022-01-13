@@ -1,10 +1,10 @@
 ---
 home: true
 heroImage: /logo.svg
-actionText: 加入我们
+actionText: 开始
 actionLink: /guide/newbie
 
-altActionText: 关于我们
+altActionText: 了解更多
 altActionLink: /about/
 
 features:

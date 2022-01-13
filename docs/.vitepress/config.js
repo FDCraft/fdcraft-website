@@ -1,10 +1,10 @@
-const pkg = require('../../package.json')
+import pkg from '../../package.json'
 
 /**
  * @type {import('vitepress').UserConfig}
  */
 
-module.exports = {
+export default {
     title: 'FDCraft｜复读世界𒆙',
     lang: 'zh-CN',
     description: '世界树之下',
