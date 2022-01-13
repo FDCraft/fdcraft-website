@@ -5,9 +5,9 @@ import pkg from '../../package.json'
  */
 
 export default {
-    title: 'FDCraft｜复读世界𒆙',
+    title: 'FDCraft',
     lang: 'zh-CN',
-    description: '世界树之下',
+    description: '复读世界𒆙',
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
     ],
