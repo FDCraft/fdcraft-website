@@ -1,12 +1,16 @@
+.content img {
+    box-shadow:0px 0px 25px 0px rgba(50, 50, 50, 0.5);
+}
+
 .home-hero .image {
-    width: 200px;
-    height: 200px;
-  }
+   width: 200px;
+   height: 200px;
+}
   
-  .nav-bar .logo {
-    height: 30px;
-    margin-right: 2px;
-  }
+.nav-bar .logo {
+  height: 30px;
+  margin-right: 2px;
+}
 
 :root {
     --c-white: #ffffff;
