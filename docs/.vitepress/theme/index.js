@@ -7,6 +7,7 @@ import DefaultTheme from 'vitepress/theme'
 // import Comment from './components/Comment.vue'
 
 import './custom.css'
+import './homepage.css'
 
 export default {
     ...DefaultTheme,

@@ -1,0 +1,19 @@
+.homepage {
+    text-align: center;
+}
+
+
+.homepage h2 {
+    color: #6e6e73;
+    font-size: 1.2rem;
+    border: none;
+}
+
+.homepage .x-imgs {
+    display: flex;
+    overflow-x: auto;
+}
+
+.homepage .desc {
+    color: #999;
+}
