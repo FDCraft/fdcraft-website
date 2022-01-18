@@ -24,6 +24,8 @@ footer: Copyright © 2020-present KYLN24 & 复旦大学我的世界基岩社
 ---
 <div class="homepage">
 
+<div class="desc">在线人数：{{serverStatus.current_players}}/{{serverStatus.max_players}}</div>
+
 <h2>合影</h2>
 
 <img src="/img/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="合影" style="max-width:600px;"/>
@@ -41,3 +43,28 @@ footer: Copyright © 2020-present KYLN24 & 复旦大学我的世界基岩社
 
 
 </div>
+
+<script>
+
+import axios from 'https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js'
+
+export default {
+  data() {
+    return {
+      serverStatus: {},
+      statusApi = 'https://admin.fdc.hath.top/api/status/FDCraft'
+    }
+  },
+
+  mounted() {
+    axios.get(statusApi)
+      .then(function (response) {
+        console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
+      })
+  }
+}
+
+</script>
