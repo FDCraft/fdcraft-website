@@ -8,6 +8,7 @@
 | **MCDReforged**                | 2.3.1                                                        | 上海交通大学致远镜像                                         | MCDR 插件由 Aluminum 管理，不在此处列出 |
 | **Paper**                      | git-Paper-408 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) | https://papermc.io/downloads#Paper-1.17                      |                                         |
 | **Authlib Injector**           | 1.1.40                                                       | https://authlib-injector.yushi.moe/                          |                                         |
+| **NekoAgent**                  | 0.3.1                                                        | [https://github.com/neko-craft/NekoAgent](https://github.com/neko-craft/NekoAgent) |                                         |
 | **Boom**                       | 1.3.3                                                        | https://www.mcbbs.net/thread-1150139-1-1.html                |                                         |
 | **Core Protect**               | 20.1                                                         | https://www.mcbbs.net/thread-72515-1-1.html                  |                                         |
 | **Dynmap**                     | 3.2.1                                                        | https://www.spigotmc.org/resources/dynmap.274/               |                                         |
@@ -28,3 +29,4 @@
 | **Villiger Optimiser**         | 1.1.5                                                        | https://www.spigotmc.org/resources/villager-optimiser-1-14-2-1-16-5.68517/ | 发布版暂不支持1.17，临时弃用            |
 | **VoidGen**                    | 2.2                                                          | https://www.spigotmc.org/resources/voidgen.25391/            |                                         |
 | **World Edit**                 | 7.2.8                                                        | https://dev.bukkit.org/projects/worldedit                    |                                         |
+
