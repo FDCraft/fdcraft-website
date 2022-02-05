@@ -4,7 +4,7 @@
 
 光标（标宝）为本服特约吉祥物，感谢标宝提供的自动化支持
 
-Christina 为本群特约机器人。使用 !!cht mcstatus 可查询服务器在线情况，使用 !!help 可查询更多指令
+Christina 为本群特约机器人。使用 !!cht mcstatus 可查询服务器在线情况，使用 !!cht help 可查询更多指令
 
 ## 性能瓶颈
 
