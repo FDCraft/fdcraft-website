@@ -15,7 +15,7 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 ## 进入服务器
 
-系统要求：见 [Minecraft 官网](https://www.minecraft.net/zh-hans/store/minecraft-java-edition)
+系统要求：见 [Minecraft 官网](https://www.minecraft.net/zh-hans/store/minecraft-java-edition#features2)
 
 ### 在此之前
 
