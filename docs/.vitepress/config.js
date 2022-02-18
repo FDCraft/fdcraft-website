@@ -79,6 +79,10 @@ export default {
                         {
                             text: '软件版本',
                             link: '/guide/softversion'
+                        },
+                        {
+                            text: '教程搬运',
+                            link: '/guide/learnspace'
                         }
                     ]
                 }, {

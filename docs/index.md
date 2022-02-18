@@ -4,7 +4,7 @@ heroImage: /logo.svg
 actionText: 开始
 actionLink: /guide/newbie
 
-altActionText: 了解更多
+altActionText: 关于我们
 altActionLink: /about/
 
 features:
@@ -22,6 +22,9 @@ features:
     details: 参与世界树背景故事的构建，也可以创作关于 Minecraft 的同人图文
 footer: Copyright © 2020-present KYLN24 & 复旦大学我的世界基岩社
 ---
+<div class="top_flag" style="position: sticky; top: 0; width: 100%;">
+</div>
+
 <div class="homepage">
 
 <h2>合影</h2>
