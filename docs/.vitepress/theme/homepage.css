@@ -3,6 +3,9 @@
     max-width: 100%;
 }
 
+.homepage img {
+    max-width:600px;
+}
 
 .homepage h2 {
     color: #6e6e73;
@@ -12,7 +15,13 @@
 
 .homepage .x-imgs {
     display: flex;
+    margin: auto;
     overflow-x: auto;
+    width: 600px;
+}
+
+.homepage .x-imgs img{
+    max-width: 600px;
 }
 
 .homepage .desc {
