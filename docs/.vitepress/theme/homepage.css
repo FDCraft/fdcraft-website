@@ -21,11 +21,11 @@
     display: flex;
     margin: auto;
     overflow-x: auto;
-    width: 600px;
+    /* width: 600px; */
     max-width: 100%;
 }
 
 .homepage .x-imgs img {
-    width: 600px;
+    /* width: 600px; */
     max-width: 100%;
 }
