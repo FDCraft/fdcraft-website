@@ -45,7 +45,7 @@ export default {
         ],
 
         sidebar: {
-            '/news/': 'auto',
+            '/news/': false,
             '/the-tree/': 'auto',
             '/about/': 'auto',
             '/': [
