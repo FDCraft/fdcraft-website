@@ -20,24 +20,22 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 
 认证服务器地址：https://auth.fdc.hath.top/api/yggdrasil
 
-#### FDCraft｜复读世界𒆙
+#### 【主服】FDCraft｜复读世界𒆙
 
-| 服务器地址 | mc.fdc.hath.top(:25565)        |
-| ---------- | ------------------------------ |
-| 兼容版本   | JE 1.17.1+ & BE                |
-| 特性版本   | Minecraft: Java Edition 1.17.1 |
-| 核心类型   | Paper, Spigot, Bukkit          |
+| Java 版地址 | mc.fdc.hath.top(:25565) |
+| ----------- | ----------------------- |
+| 基岩版地址  | mc.fdc.hath.top:19132   |
+| 兼容版本    | JE 1.17.1+ & BE         |
+| 特性版本    | JE 1.17.1               |
+| 核心类型    | Paper, Spigot, Bukkit   |
 
-#### FDCraft: Playground
+#### 【小游戏服】FDCraft: Playground
 
-| 服务器地址     | mc.fdc.hath.top:25588           |
-| -------------- | ------------------------------- |
-| Minecraft 版本 | Minecraft: Java Edition         |
-| 服务器核心类型 | Vanilla / Paper, Spigot, Bukkit |
+| 服务器地址     | mc.fdc.hath.top:25588              |
+| -------------- | ---------------------------------- |
+| Minecraft 版本 | JE（具体版本根据不同的小游戏而定） |
 
 ## 基岩社
-
-QQ 群：[864285734](https://qm.qq.com/cgi-bin/qm/qr?k=hgMVhpIVlBOS2lqSa9qN0f1ZnCm7EeGu&jump_from=webapi)
 
 ### 创办初衷
 
