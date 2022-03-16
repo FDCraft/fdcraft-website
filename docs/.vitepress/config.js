@@ -15,16 +15,8 @@ export default {
         repo: pkg.repository,
         logo: '/logo.svg',
         docsBranch: 'main',
-        editLinks: true,
+        editLinks: false,
         editLinkText: '为此页提供修改建议',
-
-        // algolia: {
-        //     apiKey: 'b573aa848fd57fb47d693b531297403c',
-        //     indexName: 'vitejs',
-        //     searchParameters: {
-        //         facetFilters: ['tags:cn']
-        //     }
-        // },
 
         nav: [
             { text: '复读指南', link: '/guide/' },
