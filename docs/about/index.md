@@ -51,15 +51,15 @@ Minecraft 本身基于 Java 程序设计语言开发，并通过 Bukkit API 提�
 
 ### 社团骨干
 
-社长：DZ  
-副社长：Kylin24Kwok
+社长：陆金泽  
+副社长：郭虹麟
 
-团支部书记：Kylin24Kwok
+团支部书记：郭虹麟
 - 组织部
-  - 部长：shi2002
-  - 成员：Cauchy
+  - 部长：时阅
 - 宣传部
-  - 部长：Kemory
-  - 成员：BeatGeneration
+  - 部长：王鑫
+  - 成员：李靖昭 尚奇 訾惠斌
 - 活动部
-  - 部长：Synopt
+  - 部长：赵宇栋
+  - 成员：吴毅恒 杨嵩涛 谢书豪 崔夏轩
