@@ -6,7 +6,7 @@ FDCraft｜复读世界𒆙（简称 FDCraft）是由 Kylin24Kowk 于 2020 年 12
 
 QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F_zgiArVk&jump_from=webapi)
 
-### 运营团队
+### 运营团队：FDC 云计算中心
 
 腐竹（网络 / 软件 / 运维）：Kylin24Kwok  
 物理腐竹（云储存 / 云计算）：shi2002  
