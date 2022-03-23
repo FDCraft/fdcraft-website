@@ -1,6 +1,6 @@
 # FDCraft
 
-FDCraft｜复读世界𒆙（简称 FDCraft）是由 Kylin24Kowk 于 2020 年 12 月发起的面向复旦大学 Minecraft 爱好者的 Java Edition 多人联机服务器。
+FDCraft 是由 Kylin24Kwok 于 2020 年 12 月发起的面向复旦大学 Minecraft 爱好者的系列多人联机服务器。
 
 QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F_zgiArVk&jump_from=webapi)
 
