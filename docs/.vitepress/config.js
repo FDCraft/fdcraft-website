@@ -21,7 +21,7 @@ export default {
         nav: [
             { text: '复读指南', link: '/guide/' },
             { text: '动态', link: '/news/' },
-            { text: '世界树的故事', link: '/the-tree/' },
+            // { text: '世界树的故事', link: '/the-tree/' },
             { text: '用户中心', link: 'https://auth.fdc.hath.top/' },
             { text: '复读百科', link: 'https://docs.qq.com/doc/DR2Voam1PQU5iYkh2' },
             {
@@ -33,7 +33,20 @@ export default {
                     }
                 ]
             },
-            { text: '关于', link: '/about/' }
+            { text: '关于', link: '/about/' },
+            {
+                text: '友情链接',
+                items: [
+                    {
+                        text: 'SJMC',
+                        link: 'https://mc.sjtu.cn/'
+                    },
+                    {
+                        text: 'MUAwiki',
+                        link: 'https://wiki.mualliance.ltd/'
+                    }
+                ]
+            }
         ],
 
         sidebar: {
