@@ -52,7 +52,20 @@ export default {
         sidebar: {
             '/news/': false,
             '/the-tree/': 'auto',
-            '/about/': 'auto',
+            '/about/': [
+                {
+                    text: 'FDCraft',
+                    link: '/about/'
+                },
+                {
+                    text: '基岩社',
+                    link: '/about/club'
+                },
+                {
+                    text: '联动服务器',
+                    link: '/about/server'
+                }
+            ],
             '/': [
                 {
                     text: '复读指南',
