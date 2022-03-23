@@ -3,6 +3,8 @@
 [腐竹的新坑](/news/holes) [已知问题记录](/news/bugs)
 
 ::: tip 2022 年 3 月 14 日
+[消息 | FDCraft 加入 MUA](/news/posts/2022032302)
+
 [SJMC 现已支持 FDCraft 用户中心](/news/posts/2022032301)
 :::
 
