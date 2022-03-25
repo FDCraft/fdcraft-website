@@ -44,6 +44,10 @@ export default {
                     {
                         text: 'MUAwiki',
                         link: 'https://wiki.mualliance.ltd/'
+                    },
+                    {
+                        text: '牛腩小镇',
+                        link: 'https://www.newnan.city/'
                     }
                 ]
             }
