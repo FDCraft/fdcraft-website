@@ -40,3 +40,12 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | 状态           | ![Playground](https://minecraftlist.com/servers/mc.fdc.hath.top:25588/banner.svg) |
 | 服务器地址     | mc.fdc.hath.top:25588                                                             |
 | Minecraft 版本 | JE（具体版本请通过叶宝查询）                                                      |
+
+### 【PPF】像素 FDU 计划
+
+| 代号           | ppf                                                                               |
+| -------------- | --------------------------------------------------------------------------------- |
+| 状态           | ![Proj. Pixel FDU](https://minecraftlist.com/servers/ppf.fdc.hath.top/banner.svg) |
+| 服务器地址     | ppf.fdc.hath.top(:25565)                                                             |
+| Minecraft 版本 | JE 1.18.2                                                      |
+| 核心类型    | Paper, Spigot, Bukkit                                                      |
