@@ -4,8 +4,8 @@ heroImage: /logo.svg
 actionText: 开始
 actionLink: /guide/newbie
 
-altActionText: 关于我们
-altActionLink: /about/
+altActionText: 动态
+altActionLink: /news/
 
 features:
   - title: 🌏 平行世界
