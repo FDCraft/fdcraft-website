@@ -51,5 +51,4 @@ footer: Copyright © 2020-present KYLN24 & 基岩社
   <img src="/img/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
 
   <p class="desc">2021/9/21 中秋合影</p>
-
 </div>
