@@ -37,15 +37,21 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 
 | 代号           | fdp                                                                               |
 | -------------- | --------------------------------------------------------------------------------- |
-| 状态           | ![Playground](https://minecraftlist.com/servers/mc.fdc.hath.top:25588/banner.svg) |
-| 服务器地址     | mc.fdc.hath.top:25588                                                             |
-| Minecraft 版本 | JE（具体版本请通过叶宝查询）                                                      |
+| 服务器地址     | 【不定期开放】进入fdc后使用指令 `/server fdp` 进入                                      |
+| Minecraft 版本 | JE（具体版本详见群内小游戏相关公告）                                                    |
 
 ### 【PPF】像素 FDU 计划
 
 | 代号           | ppf                                                                               |
 | -------------- | --------------------------------------------------------------------------------- |
-| 状态           | ![Proj. Pixel FDU](https://minecraftlist.com/servers/ppf.fdc.hath.top/banner.svg) |
-| 服务器地址     | ppf.fdc.hath.top(:25565)                                                             |
-| Minecraft 版本 | JE 1.18.2                                                      |
-| 核心类型    | Paper, Spigot, Bukkit                                                      |
+| 服务器地址     | 进入fdc后使用指令 `/server ppf` 进入                                                  |
+| Minecraft 版本 | JE 1.18.2                                                                         |
+| 核心类型    | Paper, Spigot, Bukkit                                                                 |
+
+### 【模组探索服】Fall of Ascension(飞升者的陨落：石粒版)
+
+| 代号           | Mod                                                                                 |
+| -------------- | --------------------------------------------------------------------------------- |
+| 状态           | ![Mod](https://minecraftlist.com/servers/x.jingyijun.xyz:25699/banner.svg)        |
+| 服务器地址     | 【不定期开放】x.jingyijun.xyz:25699                                                   |
+| Minecraft 版本 | JE（具体版本详见群内模组服相关公告）                                                     |
