@@ -38,4 +38,4 @@ jobs:
           git init
           git add -A
           git commit -m 'gh-action deploy'
-          git push -f "https://${GPA_TOKEN}@${GHP_REPO}"
+          # git push -f "https://${GPA_TOKEN}@${GHP_REPO}"
