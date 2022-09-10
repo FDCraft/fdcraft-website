@@ -13,7 +13,7 @@
 | 核心类型 | Purpur                                                                                              |
 | 特色     | 原版生存                                                                                            |
 | 备用地址 | 1.19.sjmc.club                                                                                     |
-| SJMC官网 | [SJTU Minecraft Club](mc.sjtu.cn)                                                                  |
+| SJMC官网 | [SJTU Minecraft Club](https://mc.sjtu.cn)                                                                  |
 
 
 ## 方块交大 1.17.1
@@ -26,4 +26,4 @@
 | 核心类型 | Purpur                                                                                              |
 | 特色     | 方块交大                                                                                            |
 | 备用地址 | pixart.sjmc.club                                                                                    |
-| SJMC官网 | [SJTU Minecraft Club](mc.sjtu.cn)                                                                  |
+| SJMC官网 | [SJTU Minecraft Club](https://mc.sjtu.cn)                                                                  |
