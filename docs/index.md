@@ -44,6 +44,10 @@ footer: Copyright © 2020-present KYLN24 & 基岩社
 
   <h2>合影</h2>
 
+  <img src="/img/8a670318d98c454699a7205adfddbeba.webp" alt="中秋合影（还有交大的同学一起~）" />
+
+  <p class="desc">2022/10/1 国庆合影</p>
+  
   <img src="/img/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
 
   <p class="desc">2022/9/10 中秋合影</p>
