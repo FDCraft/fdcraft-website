@@ -11,26 +11,27 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 |                             | FDC 云计算中心 |
 | --------------------------- | -------------- |
 | 腐竹（网络 / 软件 / 运维）  | Kylin24Kwok    |
-| 物理腐竹（云储存 / 云计算） | shi2002        |
-| 群主                        | BeatGeneration |
+| 运维助理                  | Polaris_Light    |
+| 物理腐竹（云储存 / 云计算）  | JingYiJun       |
+| 群主                     | BeatGeneration |
 
 ## 服务器概况
 
 ### FDCraft 用户中心
 
-网站地址：https://auth.fdc.hath.top
+网站地址：https://auth.fdc.jingyijun.xyz/api/yggdrasil
 
-认证服务器地址：https://auth.fdc.hath.top/api/yggdrasil
+认证服务器地址：https://auth.fdc.jingyijun.xyz
 
 ### 【主服】复读世界𒆙
 
 | 代号        | fdc                                                                        |
 | ----------- | -------------------------------------------------------------------------- |
-| 状态        | ![复读世界𒆙](https://minecraftlist.com/servers/mc.fdc.hath.top/banner.svg) |
-| Java 版地址 | mc.fdc.hath.top(:25565)                                                    |
-| 基岩版地址  | mc.fdc.hath.top:19132                                                      |
-| 兼容版本    | JE 1.17.1+ & BE                                                            |
-| 特性版本    | JE 1.17.1                                                                  |
+| 状态        | ![复读世界𒆙](https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz/banner.svg) |
+| Java 版地址 | mc.fdc.jingyijun.xyz                                                   |
+| 基岩版地址  | mc.fdc.jingyijun.xyz                                                      |
+| 兼容版本    | JE 1.19.2 & BE                                                            |
+| 特性版本    | JE 1.19.2                                                                  |
 | 核心类型    | Paper, Spigot, Bukkit                                                      |
 
 ### 【小游戏服】Playground
@@ -48,10 +49,10 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | Minecraft 版本 | JE 1.18.2                                                                         |
 | 核心类型    | Paper, Spigot, Bukkit                                                                 |
 
-### 【模组探索服】Fall of Ascension(飞升者的陨落：石粒版)
+### 【模组探索服】Fudan Dream Town
 
-| 代号           | Mod                                                                                 |
-| -------------- | --------------------------------------------------------------------------------- |
-| 状态           | ![Mod](https://minecraftlist.com/servers/x.jingyijun.xyz:25699/banner.svg)        |
-| 服务器地址     | 【不定期开放】x.jingyijun.xyz:25699                                                   |
-| Minecraft 版本 | JE（具体版本详见群内模组服相关公告）                                                     |
+| 代号           | Mod                                                                               |
+| -------------- | ---------------------------------------------------------------------------------|
+| 状态           | ![Mod](https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz:25588/banner.svg)   |
+| 服务器地址     |  mc.fdc.jingyijun.xyz:25588                                                        |
+| Minecraft 版本 | JE 1.16.5                                                                         |
