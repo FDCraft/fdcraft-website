@@ -19,7 +19,7 @@
 
   *注：目前 FDCraft 用的是外置登陆模式，所以**无需购买**所谓的正版账号*
   - 正版账号
-    - 玩家在 [Minecraft官网](minecraft.net) 通过 Microsoft 账号购买游戏后，你的 Microsoft 账号/密码即为你的 Minecraft 正版账号/密码，通过这个账号，你可以登陆像 Hypixel 这样的正版服务器，并且在 [Minecraft官网](minecraft.net) 更换皮肤/游戏昵称等。
+    - 玩家在 [Minecraft官网](https://minecraft.net) 通过 Microsoft 账号购买游戏后，你的 Microsoft 账号/密码即为你的 Minecraft 正版账号/密码，通过这个账号，你可以登陆像 Hypixel 这样的正版服务器，并且在 [Minecraft官网](https://minecraft.net) 更换皮肤/游戏昵称等。
   - 离线账户
     - 即所谓的“盗版”，一般只需要输入你所希望显示的游戏内昵称即可。通过离线账户可以无需付钱即可游玩 Minecraft。其优点是单机游玩体验和正版并无二致，但是缺点是只能加入一些无**正版验证**（即只有正版玩家才能进入的）的服务器游玩。
   - 外置登陆

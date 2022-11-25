@@ -15,7 +15,7 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: "15"
+          node-version: "17"
 
       - run: yarn install
 
@@ -38,4 +38,4 @@ jobs:
           git init
           git add -A
           git commit -m 'gh-action deploy'
-          git push -f "https://${GPA_TOKEN}@${GHP_REPO}"
+          git push -f --set-upstream https://${GPA_TOKEN}@${GHP_REPO} master
