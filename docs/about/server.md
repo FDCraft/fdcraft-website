@@ -25,7 +25,7 @@
 | 游戏版本 | JE 1.17.1                                                                                           |
 | 核心类型 | Purpur                                                                                              |
 | 特色     | 方块交大                                                                                            |
-| SJMC官网 | [SJTU Minecraft Club](mc.sjtu.cn)                                                                  |
+| SJMC官网 | [SJTU Minecraft Club](https://mc.sjtu.cn)                                                                  |
 
 
 ## 格雷科技：新视野
@@ -36,4 +36,4 @@
 | 网站     | [SJTU GTNR Server](https://mc.sjtu.cn/2021/03/17/sjtu-vanilla-server-1-16-5/)                   |
 | 游戏版本 | JE 1.7.10                                                                                           |
 | 特色     | 格雷科技：新视野模组生存                                                                                |
-| SJMC官网 | [SJTU Minecraft Club](mc.sjtu.cn)                                                                  |
+| SJMC官网 | [SJTU Minecraft Club](https://mc.sjtu.cn)                                                                  |
