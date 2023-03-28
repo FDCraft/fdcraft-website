@@ -8,10 +8,10 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 以下工作正在寻找协作者：
 
-1. Minecraft 服务器相关：网络运维、插件开发、活动策划等
+1. Minecraft 服务器相关：网络运维、插件/数据包开发、活动策划等
 2. 新媒体宣传运营：视频制作、公众号编辑等
 
-有意了解或加入者，请与腐竹联系。
+有意了解或加入者，请与群内管理员联系。
 :::
 
 ## 取得联系
@@ -32,9 +32,11 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 ### 在此之前
 
-FDCraft｜复读世界𒆙采用自建账户系统登录，不进行正版验证和防沉迷认证。请前往 [FDCraft 用户中心](https://auth.fdc.hath.top)，使用复旦大学域名下的邮箱注册 FDCraft 账号。
+FDCraft｜复读世界𒆙采用自建账户系统登录，不进行正版验证和防沉迷认证。
 
-Minecraft: Java Edition 需要 Java 运行时支持。请确保你的电脑上安装了**正确版本**的 Java Runtime Environment(jre) 或 Java Development Kit(jdk) 并已正确配置 PATH。如果没有安装，可以前往 [Oracle Java 官方网站](https://www.oracle.com/java/technologies/downloads)下载安装。
+在一切操作之前，**请务必**前往 [FDCraft 用户中心](https://auth.fdc.jingyijun.xyz)，使用**复旦大学域名**下的邮箱注册 FDCraft 账号。
+
+Minecraft: Java Edition 需要 Java 运行时支持。请确保你的电脑上安装了**正确版本**的 Java Runtime Environment(jre) 或 Java Development Kit(jdk) 并已正确配置 PATH。如果没有安装，可以从QQ群内\[群文件-java\]下载，或者自行前往 [Oracle Java 官方网站](https://www.oracle.com/java/technologies/downloads)下载安装。
 
 ### 配置客户端（Java 版）
 
