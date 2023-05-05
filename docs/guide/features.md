@@ -17,7 +17,7 @@
 
 ## 多世界
 
-服务器设有生存世界与创造世界，可通过服务器内指令 `-server xxx` 进行传送（“xxx”=fdc, fdp, sjmc, smp）。生存模式与创造模式的物品栏严格隔离。创造世界以及ppf(像素复旦计划)世界开放 WorldEdit 创世神权限。
+服务器间可通过服务器内指令 `/server xxx` 进行传送（“xxx”=fdc, fdp, fdcc, ppf），物品栏不共享。创造世界以及ppf(像素复旦计划)世界开放 WorldEdit 创世神权限。
 
 ## 服务器保护
 

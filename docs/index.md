@@ -20,20 +20,18 @@ features:
     details: 参与服务器的开发与运维，一起整点好活儿
   - title: 📖 二创
     details: 参与世界树背景故事的构建，也可以创作关于 Minecraft 的同人图文
-footer: Copyright © 2020-present KYLN24 & 基岩社
+footer: Copyright © 2022-present KYLN24 & 基岩社
 ---
 
 <div class="homepage">
 
   <h2>服务器状态</h2>
 
-  <a href="https://minecraftlist.com/servers/mc.fdc.hath.top" target="_blank"><img
-      src="https://minecraftlist.com/servers/mc.fdc.hath.top/banner.svg" alt="mc.fdc.hath.top FDCraft" width="600"
-      height="100" /></a>
+<a href="/servers/mc.fdc.jingyijun.xyz" title="mc.fdc.jingyijun.xyz Minecraft server"><img src="/servers/mc.fdc.jingyijun.xyz/banner@2x.jpg" alt="mc.fdc.jingyijun.xyz Minecraft server" width="600" height="100" /></a>
 
   <p class="desc">由 <a href="https://minecraftlist.com" target="_blank">minecraftlist.com</a> 提供状态监测服务</p>
 
-  <h2>展示</h2>
+  <h2>画廊</h2>
 
   <div class="x-imgs">
     <img src="/img/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
@@ -44,10 +42,10 @@ footer: Copyright © 2020-present KYLN24 & 基岩社
 
   <h2>合影</h2>
 
-  <img src="/img/8a670318d98c454699a7205adfddbeba.webp" alt="中秋合影（还有交大的同学一起~）" />
+  <img src="/img/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
 
   <p class="desc">2022/10/1 国庆合影</p>
-  
+
   <img src="/img/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
 
   <p class="desc">2022/9/10 中秋合影</p>
