@@ -33,30 +33,39 @@ footer: Copyright © 2022-present KYLN24 & 基岩社
 
   <p class="desc">由 <a href="https://minecraftlist.com" target="_blank">minecraftlist.com</a> 提供状态监测服务</p>
 
-  <h2>画廊</h2>
+  <h2>三周目画廊</h2>
 
   <div class="x-imgs">
-    <img src="/img/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
-    <img src="/img/7RCMFCENIE9XDJWPY1V77JDECCFPX2LXEEPLSS3JIKEP5MKM.webp" alt="服务器图片展示" />
-    <img src="/img/ONI4MW2H0JVTRJBN8E7MO6AK9WBHORC2XTL0CZCCZRVUEIZFRBSCSJ8LC81PI.webp" alt="服务器图片展示" />
-    <img src="/img/1SHEODILJFKET4VDJAIL6ERFBERA2EA7DK1SKW0NDOAPC8NI2HGPT.webp" alt="服务器图片展示" />
+    <img src="/img/gallary/2023-03-22_00.07.09.webp" alt="服务器图片展示" />
+    <img src="/img/gallary/2023-03-21_13.39.18.webp" alt="服务器图片展示" />
+    <img src="/img/gallary/2023-03-21_13.19.32.webp" alt="服务器图片展示" />
+    <img src="/img/gallary/2023-03-21_13.39.09.webp" alt="服务器图片展示" />
+  </div>
+
+  <h2>二周目画廊</h2>
+
+  <div class="x-imgs">
+    <img src="/img_old/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
+    <img src="/img_old/7RCMFCENIE9XDJWPY1V77JDECCFPX2LXEEPLSS3JIKEP5MKM.webp" alt="服务器图片展示" />
+    <img src="/img_old/ONI4MW2H0JVTRJBN8E7MO6AK9WBHORC2XTL0CZCCZRVUEIZFRBSCSJ8LC81PI.webp" alt="服务器图片展示" />
+    <img src="/img_old/1SHEODILJFKET4VDJAIL6ERFBERA2EA7DK1SKW0NDOAPC8NI2HGPT.webp" alt="服务器图片展示" />
   </div>
 
   <h2>合影</h2>
 
-  <img src="/img/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
+  <img src="/img_old/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
 
   <p class="desc">2022/10/1 国庆合影</p>
 
-  <img src="/img/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
+  <img src="/img_old/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
 
   <p class="desc">2022/9/10 中秋合影</p>
 
-  <img src="/img/482017EB4CCD40D894AB766867409E86.webp" alt="社团落成合影" />
+  <img src="/img_old/482017EB4CCD40D894AB766867409E86.webp" alt="社团落成合影" />
 
   <p class="desc">2022/3/8 社团落成合影</p>
 
-  <img src="/img/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
+  <img src="/img_old/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
 
   <p class="desc">2021/9/21 中秋合影</p>
 

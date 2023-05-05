@@ -19,9 +19,9 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 
 ### FDCraft 用户中心
 
-网站地址：https://auth.fdc.jingyijun.xyz/api/yggdrasil
+网站地址：https://auth.fdc.jingyijun.xyz
 
-认证服务器地址：https://auth.fdc.jingyijun.xyz
+认证服务器地址：https://auth.fdc.jingyijun.xyz/api/yggdrasil
 
 ### 【主服】复读世界𒆙
 
