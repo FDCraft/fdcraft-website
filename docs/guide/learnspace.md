@@ -3,7 +3,7 @@
 本页提供各类技术的教程搬运，欢迎投稿
 
 ::: tip Minecraft基础
-[Minecraft基础](/guide/tuorial/basic)
+[Minecraft基础](/guide/tutorial/basic)
 :::
 
 ## 二、Minecraft 进阶
