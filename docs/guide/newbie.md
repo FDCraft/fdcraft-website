@@ -16,11 +16,11 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 ## 取得联系
 
-首先，请通过微信公众号“复旦大学学生社团”访问社团系统，搜索“基岩社”加入社团。
-
-然后，请加入我们的 QQ 群
+请加入我们的 QQ 群。
 
 > QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F_zgiArVk&jump_from=webapi)
+
+如果你有意向加入社团并成为骨干，请通过微信公众号“复旦大学学生社团”访问社团系统，搜索“基岩社”加入社团。
 
 ## 进入服务器
 
@@ -32,9 +32,7 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 教程已经转移至[入服教程](https://docs.qq.com/doc/DSFpwT1Fra3BMdml1)
 
-#### Xbox One / Nintendo Switch / PlayStation 4
-
-参见 https://github.com/Pugmatt/BedrockConnect
+如果您使用Xbox One / Nintendo Switch / PlayStation 4等主机，请参见 https://github.com/Pugmatt/BedrockConnect
 
 ---
 

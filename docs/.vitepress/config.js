@@ -23,13 +23,13 @@ export default {
             { text: '动态', link: '/news/' },
             // { text: '世界树的故事', link: '/the-tree/' },
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
-            { text: '复读百科', link: 'https://docs.qq.com/doc/DR2Voam1PQU5iYkh2' },
+            { text: '复读百科', link: 'https://docs.qq.com/doc/DR0lJYVhWcGZUa0lk' },
             {
                 text: '旦星 SPS',
                 items: [
                     {
                         text: '旦星一号',
-                        link: 'https://map.fdc.hath.top/'
+                        link: 'https://mc.fdc.jingyijun.xyz:20410/'
                     }
                 ]
             },
@@ -38,13 +38,25 @@ export default {
                 text: '友情链接',
                 items: [
                     {
-                        text: 'SJMC',
+                        text: 'MUA',
+                        link: 'https://mualliance.ltd/'
+                    },
+                    {
+                        text: '上海交通大学Minecraft社',
                         link: 'https://mc.sjtu.cn/'
                     },
                     {
-                        text: 'MUAwiki',
-                        link: 'https://wiki.mualliance.ltd/'
+                        text: '山商Minecraft煤炭社',
+                        link: 'https://www.mualliance.ltd/archives/463'
                     },
+                    {
+                        text: '燕山大学Minecraft学生同好者协会',
+                        link: 'https://www.ysumc.club/'
+                    },
+                    {
+                        text: '塔里木大学方块协作社',
+                        link: 'https://www.tarucraft.club/'
+                    },                   
                     {
                         text: '牛腩小镇',
                         link: 'https://www.newnan.city/'
@@ -87,20 +99,8 @@ export default {
                             link: '/guide/features'
                         },
                         {
-                            text: '行政区划',
-                            link: '/guide/regions'
-                        },
-                        {
-                            text: '轨道交通',
-                            link: '/guide/railways'
-                        },
-                        {
                             text: '指令帮助',
                             link: '/guide/commands'
-                        },
-                        {
-                            text: '软件版本',
-                            link: '/guide/softversion'
                         },
                         {
                             text: '教程搬运',
