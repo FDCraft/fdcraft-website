@@ -27,7 +27,9 @@ footer: Copyright © 2022-present KYLN24 & 基岩社
 
   <h2>服务器状态</h2>
 
-<a href="/servers/mc.fdc.jingyijun.xyz" title="mc.fdc.jingyijun.xyz Minecraft server"><img src="/servers/mc.fdc.jingyijun.xyz/banner@2x.jpg" alt="mc.fdc.jingyijun.xyz Minecraft server" width="600" height="100" /></a>
+  <a href="https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz" target="_blank"><img
+      src="https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz/banner.svg" alt="mc.fdc.jingyijun.xyz FDCraft" width="600"
+      height="100" /></a>
 
   <p class="desc">由 <a href="https://minecraftlist.com" target="_blank">minecraftlist.com</a> 提供状态监测服务</p>
 
