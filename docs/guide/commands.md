@@ -97,3 +97,38 @@ FDC使用的是由服务端Leaves提供的假人系统，假人的总指令为 `
 
 指令列表与说明参见[Leaves Fakeplayer](https://docs.leavesmc.top/zh/leaves/fakeplayer)。
 
+## MCDR指令
+
+[MCDR](https://github.com/Fallen-Breath/MCDReforged)是一个基于python的服务端控制工具，可以给原版端或者其他服务端提供一些插件的支持.由于通过监听服务器内的聊天消息来识别指令，MCDR的指令标识与其他指令不同，一般为`!!XXXX`
+
+### Task任务清单
+
+非常好用的分锅插件（
+
+| 指令                                           | 描述                               |
+| ---------------------------------------------- | ---------------------------------- |
+| !!task                                         | 显示任务概览。                     |
+| !!task help                                    | 获取任务清单插件的指令列表。       |
+| !!task overview                                | 显示任务概览，同`!!task`。         |
+| !!task list                                    | 显示完整的任务清单。               |
+| !!task list-all \<task\>                       | 显示完整的任务清单（包括子任务）。 |
+| !!task detail \<task\>                         | 显示一个任务的详细信息。           |
+| !!task add \<task\> \[description\]            | 添加一个任务与其描述。             |
+| !!task remove/rm/delete/del \<task\>           | 删除一个任务。                     |
+| !!task rename \<old task\> \<new task\>        | 重命名一个任务。                   |
+| !!task change \<task\> \<new description\>     | 修改一个任务的描述。               |
+| !!task done \<task\>                           | 将某个任务标记为完成。             |
+| !!task undone \<task\>                         | 将某个任务标记为未完成。           |
+| !!task deadline \<task\> \<period: day\>       | 设置一个任务的ddl。                |
+| !!task deadline \<task\> clear                 | 清除一个任务的ddl。                |
+| !!task priority \<task\> \<priority\>          | 设置一个任务的优先级。             |
+| !!task player \<task\>                         | 查看一个玩家的任务列表。           |
+| !!task res/responsible \<task\> \<player\>     | 设置一个任务的负责人。             |
+| !!task unres/unresponsible \<task\> \<player\> | 删除一个任务的负责人。             |
+
+### Stats数据统计
+
+### 其他
+
+
+

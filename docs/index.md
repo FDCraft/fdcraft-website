@@ -20,7 +20,7 @@ features:
     details: 参与服务器的开发与运维，一起整点好活儿
   - title: 📖 二创
     details: 参与世界树背景故事的构建，也可以创作关于 Minecraft 的同人图文
-footer: Copyright © 2022-present KYLN24 & 基岩社
+footer: Copyright © 2023-present KYLN24 & 基岩社
 ---
 
 <div class="homepage">

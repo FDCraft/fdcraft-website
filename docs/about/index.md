@@ -25,11 +25,11 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 
 ### 【主服】复读世界𒆙
 
-| 代号        | fdc                                                          |
+| 代号        | fdc&fdcc                                                     |
 | ----------- | ------------------------------------------------------------ |
 | 状态        | ![复读世界𒆙](https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz/banner.svg) |
-| Java 版地址 | mc.fdc.jingyijun.xyz                                         |
-| 基岩版地址  | mc.fdc.jingyijun.xyz                                         |
+| Java 版地址 | mc.fdc.jingyijun.xyz，使用`/server fdcc`进入镜像服           |
+| 基岩版地址  | mc.fdc.jingyijun.xyz，端口为19132                            |
 | 兼容版本    | JE 1.19.4 & BE                                               |
 | 特性版本    | JE 1.19.4                                                    |
 | 核心类型    | Paper, Spigot, Bukkit                                        |

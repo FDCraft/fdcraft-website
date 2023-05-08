@@ -6,14 +6,14 @@
 [Minecraft基础](/guide/tutorial/basic)
 :::
 
-## 二、Minecraft 进阶
+## Minecraft 进阶
 ### 红石
 
 ### 生电
 
 ### 建筑
 
-## 三、服务器运维
+## 服务器运维
 
 ### 核心(Server Core)
 
@@ -25,10 +25,10 @@
 
 #### 反向代理 - Nginx
 
-## 四、新媒体技术
+## 新媒体技术
 
 ### 视频录制 - ReplayMod
 
 ### 3D 制作 - Blender
 
-## 五、其他
+## 其他
