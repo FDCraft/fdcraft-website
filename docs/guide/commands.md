@@ -95,7 +95,7 @@
 
 FDC使用的是由服务端Leaves提供的假人系统，假人的总指令为 `/bot`。它的使用与Carpet的假人系统有着非常大的不同。
 
-指令列表与说明参见[Leaves Fakeplayer](https://docs.leavesmc.top/zh/leaves/fakeplayer)。
+**指令列表与说明参见[Leaves Fakeplayer](https://docs.leavesmc.top/zh/leaves/fakeplayer)。**
 
 ## MCDR指令
 
@@ -112,23 +112,58 @@ FDC使用的是由服务端Leaves提供的假人系统，假人的总指令为 `
 | !!task overview                                | 显示任务概览，同`!!task`。         |
 | !!task list                                    | 显示完整的任务清单。               |
 | !!task list-all \<task\>                       | 显示完整的任务清单（包括子任务）。 |
-| !!task detail \<task\>                         | 显示一个任务的详细信息。           |
+| !!task detail \<task\>                         | 显示某个任务的详细信息。           |
 | !!task add \<task\> \[description\]            | 添加一个任务与其描述。             |
-| !!task remove/rm/delete/del \<task\>           | 删除一个任务。                     |
-| !!task rename \<old task\> \<new task\>        | 重命名一个任务。                   |
-| !!task change \<task\> \<new description\>     | 修改一个任务的描述。               |
+| !!task remove/rm/delete/del \<task\>           | 删除某个任务。                     |
+| !!task rename \<old task\> \<new task\>        | 重命名某个任务。                   |
+| !!task change \<task\> \<new description\>     | 修改某个任务的描述。               |
 | !!task done \<task\>                           | 将某个任务标记为完成。             |
 | !!task undone \<task\>                         | 将某个任务标记为未完成。           |
-| !!task deadline \<task\> \<period: day\>       | 设置一个任务的ddl。                |
-| !!task deadline \<task\> clear                 | 清除一个任务的ddl。                |
-| !!task priority \<task\> \<priority\>          | 设置一个任务的优先级。             |
-| !!task player \<task\>                         | 查看一个玩家的任务列表。           |
-| !!task res/responsible \<task\> \<player\>     | 设置一个任务的负责人。             |
-| !!task unres/unresponsible \<task\> \<player\> | 删除一个任务的负责人。             |
+| !!task deadline \<task\> \<period: day\>       | 设置某个任务的ddl。                |
+| !!task deadline \<task\> clear                 | 清除某个任务的ddl。                |
+| !!task priority \<task\> \<priority\>          | 设置某个任务的优先级。             |
+| !!task player \<task\>                         | 查看某个玩家的任务列表。           |
+| !!task res/responsible \<task\> \<player\>     | 设置某个任务的负责人。             |
+| !!task unres/unresponsible \<task\> \<player\> | 删除某个任务的负责人。             |
 
 ### Stats数据统计
 
+::: tip
+FDC的建筑榜不是由这个插件构建的，不适用这里的命令。
+:::
+
+| 指令                                                         | 描述                                                 |
+| ------------------------------------------------------------ | ---------------------------------------------------- |
+| !!stats                                                      | 显示Stats的帮助信息。                                |
+| !!stats save <代名> <统计类别> <统计内容> <标题>             | 保存一个统计某个统计内容的快速计分板。               |
+| !!stats del <代名>                                           | 移除某个快速计分板。                                 |
+| !!stats list                                                 | 列出已保存的快速计分板。                             |
+| !!stats query <玩家> <统计类别> <统计内容> [<-uuid>] [<-tell>] | 查询某个玩家某个统计内容的数值。                     |
+| !!stats query <玩家> <代名> [<-uuid>] [<-tell>]              | 查询某个玩家某个快速计分板的数值。                   |
+| !!stats rank <统计类别> <统计内容> [<-tell>]                 | 在聊天栏显示某个统计内容的排行。                     |
+| !!stats rank <代名> [<-tell>]                                | 在聊天栏显示某个快速计分板的排行。                   |
+| !!stats scoreboard <统计类别> <统计内容> (标题)              | 显示一个一个统计某个统计内容的快速计分板，但不保存。 |
+| !!stats scoreboard <代名>                                    | 显示某个快速计分板。                                 |
+| !!stats scoreboard show                                      | 显示该插件的计分板。                                 |
+| !!stats scoreboard hide                                      | 隐藏该插件的计分板                                   |
+
+#### 参数说明
+
+| 参数       | 描述                                                         |
+| ---------- | ------------------------------------------------------------ |
+| <统计类别> | killed, killed_by, dropped, picked_up, used, mined, broken, crafted, custom |
+| <统计内容> | killed, killed_by：生物ID                                    |
+|            | picked_up, used, mined, broken, crafted：物品/方块ID         |
+|            | custom：详见统计信息的json文件，或 [MC Wiki](https://minecraft.fandom.com/zh/wiki/统计信息) |
+|            | 上述内容无需带`minecraft:`前缀                               |
+| [<-uuid>]  | 用uuid替换玩家名。                                           |
+| [<-tell>]  | 仅自己可见。                                                 |
+
 ### 其他
 
-
+| 指令       | 描述           |
+| ---------- | -------------- |
+| !!jrrp     | 获取今日人品！ |
+| !!joinMOTD | 显示入服欢迎。 |
+| !!day      | 查询开服时间。 |
 

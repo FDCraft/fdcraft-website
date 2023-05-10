@@ -24,6 +24,7 @@ export default {
             // { text: '世界树的故事', link: '/the-tree/' },
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
             { text: '复读百科', link: 'https://docs.qq.com/doc/DR0lJYVhWcGZUa0lk' },
+            { text: '资源库', link: 'https://cloud.fdc.jingyijun.xyz' },            
             {
                 text: '旦星 SPS',
                 items: [
@@ -86,6 +87,9 @@ export default {
                 {
                     text: '复读指南',
                     children: [
+                        {   text: '复读公约',
+                            link: '/guide/rules'
+                        },
                         {
                             text: '新人指南',
                             link: '/guide/newbie'

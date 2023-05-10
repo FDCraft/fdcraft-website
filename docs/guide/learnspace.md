@@ -7,6 +7,7 @@
 :::
 
 ## Minecraft 进阶
+
 ### 红石
 
 ### 生电
@@ -16,6 +17,10 @@
 ## 服务器运维
 
 ### 核心(Server Core)
+
+::: tip 友社的服务器基础课
+[燕山大学MC社顾梵同学的服务器课程](https://www.bilibili.com/video/BV1624y1M7b4)
+:::
 
 ### 插件
 
