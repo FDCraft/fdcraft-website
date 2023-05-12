@@ -13,15 +13,21 @@ export default {
     ],
     themeConfig: {
         repo: pkg.repository,
+        siteTitle: '基岩社 | FDCraft',
         logo: '/logo.svg',
         docsBranch: 'main',
         editLinks: false,
         editLinkText: '为此页提供修改建议',
 
+        search: {
+            provider: 'local'
+          },
+
         nav: [
             { text: '复读指南', link: '/guide/' },
             { text: '动态', link: '/news/' },
             // { text: '世界树的故事', link: '/the-tree/' },
+            { text: '关于', link: '/about/' },
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
             { text: '复读百科', link: 'https://docs.qq.com/doc/DR0lJYVhWcGZUa0lk' },
             { text: '资源库', link: 'https://cloud.fdc.jingyijun.xyz' },            
@@ -34,7 +40,6 @@ export default {
                     }
                 ]
             },
-            { text: '关于', link: '/about/' },
             {
                 text: '友情链接',
                 items: [
