@@ -12,6 +12,10 @@
 
 ### 生电
 
+::: tip 
+[PL的生电教程](/guide/tutorial/survival_redstone)
+:::
+
 ### 建筑
 
 ## 服务器运维

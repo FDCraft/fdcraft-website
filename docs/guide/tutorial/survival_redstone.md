@@ -46,13 +46,20 @@ Bili镜像：https://wiki.biligame.com/mc/Minecraft_Wiki
 
 <p class="desc">Wiki</p>
 
-Bili镜像
+![2](/guide/tutorial/survival_redstone_img/2.webp)
 
-Wiki搜索界面
+<p class="desc">Bili镜像</p>
 
-词条界面
+![3](/guide/tutorial/survival_redstone_img/3.webp)
+
+<p class="desc">Wiki搜索界面</p>
+
+![4](/guide/tutorial/survival_redstone_img/4.webp)
+
+<p class="desc">词条界面</p>
 
 #### 了解学习他人的设计
+
 wiki上只提供最基本的知识，而真正踏入生电的大门往往是从借鉴他人的机器开始的。一般来说，可能的机器与模块都已经有人做过了，并放出了存档与投影（Part3中会提到）供学习与改进，有些UP主同时会附上原理讲解（如黑山大叔、肥啾U_ruby、Nachuan川川）。
 
 肥啾的指路帖：https://www.bilibili.com/read/cv13612048
@@ -87,15 +94,20 @@ Xekr的教程（更为详细）：https://www.bilibili.com/video/BV1DJ411X78m/
 
 当原理图被放下时，在原理图编辑中可以编辑对应的原理图。
 
-原理图编辑
+![5](/guide/tutorial/survival_redstone_img/5.webp)
 
-位置：显示/隐藏原理图
+<p class="desc">原理图编辑</p>
 
-锁定位置：防止原理图被意外地移动。当原理图被放下时，首先要做的就是锁定位置。
 
-旋转/翻转：使原理图旋转或翻转。但是许多机器具有方向性（后续讲解），非必要时请不要旋转机器的原理图！
+- 位置：显示/隐藏原理图
+
+- 锁定位置：防止原理图被意外地移动。当原理图被放下时，首先要做的就是锁定位置。
+
+- 旋转/翻转：使原理图旋转或翻转。但是许多机器具有方向性（后续讲解），非必要时请不要旋转机器的原理图！
 
 ##### 模式5补充
+
+![6](/guide/tutorial/survival_redstone_img/6.webp)
 
 在配置界面-通用中，模式5存在着这样一个配置，它会影响粘贴时对现有方块的操作。
 
@@ -106,16 +118,26 @@ Xekr的教程（更为详细）：https://www.bilibili.com/video/BV1DJ411X78m/
 | 非空气    | 替换现有方块   | 不替换现有方块 |
 | 所有      | 替换现有方块   | 替换现有方块   |
 
-无
 
-非空气
+![7](/guide/tutorial/survival_redstone_img/7.webp)
 
-所有
+<p class="desc">无</p>
+
+![8](/guide/tutorial/survival_redstone_img/8.webp)
+
+<p class="desc">非空气</p>
+
+![9](/guide/tutorial/survival_redstone_img/9.webp)
+
+<p class="desc">所有</p>
+
 ##### 蓝图显示模式
 
 一些大型的原理图往往难以整个去观察，需要只显示部分蓝图，此时就需要改变显示模式。
 
-位于配置界面-热键
+![10](/guide/tutorial/survival_redstone_img/10.webp)
+
+<p class="desc">位于配置界面-热键</p>
 
 按下快捷键（此处为L），即可在不同的渲染模式中切换。
 
@@ -129,13 +151,17 @@ Xekr的教程（更为详细）：https://www.bilibili.com/video/BV1DJ411X78m/
 
 - All above：渲染某个y高度以上，快捷键改变高度（不常用）
 
-##### 轻松放置
+##### 简单放置
 
-轻松放置功能用于在生存中准确地建造原理图。当简单放置开启时（此处为Y开关），对准原理图已渲染的方块按下快捷键（此处为鼠标右键），就能将手上的方块切换到对应的方块并放置下来（可以浮空）。同时能阻止你放下错误的方块（有时会失灵）。
+简单放置功能用于在生存中准确地建造原理图。当简单放置开启时（此处为Y开关），对准原理图已渲染的方块按下快捷键（此处为鼠标右键），就能将手上的方块切换到对应的方块并放置下来（可以浮空）。同时能阻止你放下错误的方块（有时会失灵）。
 
-位于配置界面-热键
+![11](/guide/tutorial/survival_redstone_img/11.webp)
+
+<p class="desc">位于配置界面-热键</p>
 
 简单放置的精准度（方向，位于顶部底部、中继器比较器的模式）取决于所使用的协议。
+
+![12](/guide/tutorial/survival_redstone_img/12.webp)
 	
 - Version 3：服务端需要装Litematica，支持对红石元件，台阶，活板门，楼梯的精准放置。使用的高校服务器有XJTU。
 
@@ -145,25 +171,36 @@ Xekr的教程（更为详细）：https://www.bilibili.com/video/BV1DJ411X78m/
 
 此外，当下面的选项打开时，如果背包内没有对应方块而背包的潜影盒内有时，会切换至那个潜影盒。
 
-位于配置界面-通用
+![13](/guide/tutorial/survival_redstone_img/13.webp)
+
+<p class="desc">位于配置界面-通用</p>
+
 
 ##### 材料列表
 
 ​	当放下原理图后，按下M+L，即可查看所需要的材料。此外在加载原理图界面选中原理图后点击材料列表也可以显示这个界面。
 
-材料列表
+![14](/guide/tutorial/survival_redstone_img/14.webp)
+
+<p class="desc">材料列表</p>
 
 - 显示：统计原理图全部的方块还是只统计渲染的方块
 
 - 信息 HUD：在屏幕的右下角显示不足方块的列表
 
-信息HUD
+![15](/guide/tutorial/survival_redstone_img/15.webp)
+
+<p class="desc">信息HUD</p>
+
 
 ##### 原理图验证
 
 有时候，原理图自带的染色并不能精确反映其是否影响机器。此时需要按下M+L，可以打开原理图的验证界面，查看更加详细的信息。
 
-原理图验证
+![16](/guide/tutorial/survival_redstone_img/16.webp)
+
+<p class="desc">原理图验证</p>
+
 
 ##### litematica-printer
 
@@ -171,7 +208,10 @@ Xekr的教程（更为详细）：https://www.bilibili.com/video/BV1DJ411X78m/
 
 Printer是litematica的拓展mod，它允许玩家自动放置已经渲染的方块。Printer可以精准地自动放置放置活板门与楼梯，但是不能支持中继器档位的自动调节，对于大面积的台阶也无能为力；并且在玩家周围方块种类较多时错误率相当高。使用Printer在许多服务器被列为作弊行为，但个人认为Printer可以作为简单放置的一个重要补充，但是完全不能替代简单放置。
 
-位于配置界面-热键
+![17](/guide/tutorial/survival_redstone_img/17.webp)
+
+<p class="desc">位于配置界面-热键</p>
+
 
 按下相应的快捷键（此处为Z，默认为CapsLock）即可开启printer，同时无论printer是否开启，按住快捷键（此处为V）也会开始打印。
 
@@ -183,49 +223,75 @@ X+C：打开Tweakeroo的配置界面，Tweakeroo的一切功能都在配置界�
 
 ##### 凭空放置
 
+![18](/guide/tutorial/survival_redstone_img/18.webp)
+
 开启后，在创造模式下可以凭空放置方块。
 
 ##### 实体攻击限制
 
 开启后，可以防止意外攻击到某些实体（后续讲解，这里可以简单理解为生物）。
 
-位于列表
+![19](/guide/tutorial/survival_redstone_img/19.webp)
+
+![20](/guide/tutorial/survival_redstone_img/20.webp)
+
+<p class="desc">位于列表</p>
 
 这里可以设置不进行攻击的实体。
 
 ##### 伪潜行
 
+![21](/guide/tutorial/survival_redstone_img/21.webp)
+
 开启后，类似潜行，不会从边缘掉下去，但是保持原来的速度。伪潜行可以用于快速搭路，但是开启时跳跃会变得困难，因此建议设置一个快捷键。
-屏蔽方块交互
+
+##### 屏蔽方块交互
+
+![22](/guide/tutorial/survival_redstone_img/22.webp)
 
 开启后，放置方块时不会与箱子，漏斗、投掷器、中继器等可以右键互动的方块互动，而直接在旁边放下方块。
+
 在放置大量箱子，铺设漏斗链与投掷器链时经常要用到这个功能。
 
 ##### 方块快速放置
+
+![23](/guide/tutorial/survival_redstone_img/23.webp)
 
 开启后，会往一个方向连续放下多个方块。用于铺设大量相同方块（如糊墙，铺地）。注意这个功能在许多服务器是被判定为作弊的。
 
 ##### 左右键快速点击
 
+![24](/guide/tutorial/survival_redstone_img/24.webp)
+
 开启后，每次按下左右键都会点击多次。在特定情况下会用到（如铁头功破基岩，紫颂花农场种植，手挖区块等）。
 
-位于通用配置
+![25](/guide/tutorial/survival_redstone_img/25.webp)
+
+<p class="desc">位于通用配置</p>
 
 此处可以调整每gt（1/20s，mc中的最小时间单位）点击的次数，通常1就足够了。
 
 ##### 方块灵活放置
 
+![26](/guide/tutorial/survival_redstone_img/26.webp)
+
 开启后，能以特殊的角度放置方块。这是一个经常被人忽视的功能，但是这个功能才是Tweakeroo的精华。
 
 按住Ctrl键或者Alt键后对准方块，能看到这样一个方框：
+
+![27](/guide/tutorial/survival_redstone_img/27.webp)
 	
 按住Ctrl，对准相应区域后按右键，将会将方块放在一些正常难以放置的位置（但是原版是可行的）。
 
-中央：橙色染色玻璃（隔空）  四周：红色染色玻璃（对角）
-	
-Alt需要开启Carpet精准放置协议（服务端需要有Carpet）。
+![28](/guide/tutorial/survival_redstone_img/28.webp)
 
-位于通用配置
+<p class="desc">中央：橙色染色玻璃（隔空）  四周：红色染色玻璃（对角）</p>
+	
+Alt需要开启Carpet精准放置协议（服务端需要有Carpet,，即支持Litematica的Version2）。
+
+![29](/guide/tutorial/survival_redstone_img/29.webp)
+
+<p class="desc">位于通用配置</p>
 
 按住Alt键，对准相应区域后按右键，能将方块按照相应方向放置。四周就是相应方向，中央是反方向（有时会失灵）。
 
@@ -233,42 +299,67 @@ Alt需要开启Carpet精准放置协议（服务端需要有Carpet）。
 
 ##### 灵魂出窍
 
+![30](/guide/tutorial/survival_redstone_img/30.webp)
+
 开启后，视角能像旁观者一样自由移动，但是实际的交互范围仍然在原地。Tweakeroo必开功能。
 
-效果
+![31](/guide/tutorial/survival_redstone_img/31.webp)
 
-位于通用配置
-如果需要在灵魂出窍时操控本体，就需要打开上面的这个选项，建议打开。
+<p class="desc">效果</p>
+
+如果需要在灵魂出窍时操控本体，就需要打开下面的这个选项。
+
+![32](/guide/tutorial/survival_redstone_img/32.webp)
+
+<p class="desc">位于通用配置</p>
 
 ##### 伽马覆写
+
+![33](/guide/tutorial/survival_redstone_img/33.webp)
 
 开启后，将Gamma值调节为默认1500%，相当于无限夜视。
 
 ##### 自动补货
 
+![34](/guide/tutorial/survival_redstone_img/34.webp)
+
 开启后，当手上的东西快使用完时，会自动从背包中取半组放在手上。
 
 ##### 长按左右键
+
+![35](/guide/tutorial/survival_redstone_img/35.webp)
 
 顾名思义，开启后会长按左右键。
 
 ##### 容器预览
 
+![36](/guide/tutorial/survival_redstone_img/36.webp)
+
 开启后，将视线对准容器后按下快捷键（默认为左Alt），即可在不打开容器的情况下查看里面的物品。
 
+这个功能需要服务器支持PCA同步协议，否则只能看到近处的容器。
+
 ##### 岩浆夜视
+
+![37](/guide/tutorial/survival_redstone_img/37.webp)
 
 开启后，如果装备着有水下呼吸附魔的头盔，能在岩浆下看得更清楚。
 
 ##### 周期性单击左右键
 
+![38](/guide/tutorial/survival_redstone_img/38.webp)
+
 开启后每隔一段时间单击一下左右键。许多刷怪塔与树厂需要用到这个功能来挂机。
 
-位于通用
+![39](/guide/tutorial/survival_redstone_img/39.webp)
+
+<p class="desc">位于通用</p>
 
 此处可以修改时间间隔，以gt为单位，通常由机器决定。
 
 ##### 潜影盒预览
+
+![40](/guide/tutorial/survival_redstone_img/40.webp)
 
 开启后，在背包中将鼠标悬停在潜影盒上按下左Shift，可以查看潜影盒内物品。
 
@@ -359,6 +450,8 @@ Nachuan川川的教程（必学）：https://www.bilibili.com/video/BV1PQ4y1C7Rp
 
 冲击流指该机器并不是持续输出物品，而是间隔一段时间后输出大量物品，从而形成短时间大量的物品流。由于冲击流的特点，在机器输出的间隔内漏斗往往已经传输完其中缓存的物品而不工作，这使得单个漏斗的效率会远小于9k/h，因此在设计接受冲击流的物品收集模块时，不能仅仅根据纸面数据计算，而是需要结合机器的运行周期来计算。
 
+![41](/guide/tutorial/survival_redstone_img/41.webp)
+
 最典型的例子就是刷花机。以肥啾U_ruby的刷花机单元为例，如果只刷一种花（如矢车菊），纸面数据为：
 
 矢车菊：40k/h ，
@@ -392,6 +485,8 @@ c.自适应打包，缺点是对建造者与使用者的知识要求较高，对
 **下面是本节结论的推导过程。如果你对于红石元件的功能完全不了解，可以先暂时跳过这段；但是如果你能够理解基础单片的运作原理，请看看下面的推导过程，能拓宽你设计收集的思路。**
 
 > 如果你仔细看了川川的教程，你能发现在其中提到了一种相对不安全的分类单片：
+> 
+> ![42](/guide/tutorial/survival_redstone_img/42.webp)
 >
 > 这种分类单片填充物品的样式为[18,1,1,1,1]，相较于普通的分类单片，这种分类单片单次能吸收更多的物品。但是当这种单片一次吸收大量物品时，输出的3格信号会解锁旁边分类单片的漏斗（红石信号“串”到了并行的其他的红石“线”上），导致旁边分类单片损坏，因此这种单片不能够堆叠。
 >
@@ -401,11 +496,18 @@ c.自适应打包，缺点是对建造者与使用者的知识要求较高，对
 
 AB，指将两种单片或者物品进行交替使用。相较于普通的堆叠设计，AB的设计施工更加复杂，体积更大，但是拥有着更加优越的性能与稳定性。下面是一种常见的AB大吸力分类单片：
 
-A单片
+![43](/guide/tutorial/survival_redstone_img/43.webp)
 
-B单片
+<p class="desc">A单片</p>
 
-组合
+![44](/guide/tutorial/survival_redstone_img/44.webp)
+
+<p class="desc">B单片</p>
+
+![45](/guide/tutorial/survival_redstone_img/45.webp)
+
+<p class="desc">组合</p>
+
 填充物样式为[1,18,1,1,1]。这种设计每个漏斗每次能吸收（缓存）63个物品，远超常规的设计，因此能够应对物品数量波动较大的物品流。
 
 ### Part 2 | 物品采集模块
@@ -436,8 +538,6 @@ TNT复制指基于活塞特性来对点燃的TNT进行复制。通过复制TNT�
 >
 > 活塞开始运动无法直接向TNT输入上升沿，间接输入也难，因此玩家常在活塞运动前使TNT处于BUD态，这样方块列表产生后提供NC更新就能复制TNT。
 
-
-
 ##### 侦测器设计
 
 顾名思义，侦测器设计指使用侦测器引发TNT更新的设计。通常，使用这种设计的TNT复制耗材少，无实体而方便建造，但难以运用于飞行器上，因此被广泛运用于许多机器上。
@@ -446,14 +546,27 @@ TNT复制指基于活塞特性来对点燃的TNT进行复制。通过复制TNT�
 
 ###### 金合欢三无&变种
 
+![46](/guide/tutorial/survival_redstone_img/46.webp)
+
+![47](/guide/tutorial/survival_redstone_img/47.webp)
 
 作为最常使用的TNT复制，其具有着许多的优点：耗材少，易于连接，爆炸点准确，无方向坐标限制等。
 
+![48](/guide/tutorial/survival_redstone_img/48.webp)
+
+![49](/guide/tutorial/survival_redstone_img/49.webp)
+
 这是上面TNT复制的一个变种，相较于原版耗材更少，但是变得具有方向性，仅用于单个使用。
 
-串联
+![50](/guide/tutorial/survival_redstone_img/50.webp)
+
+<p class="desc">串联</p>
 
 ###### 水星嗷三无
+
+![51](/guide/tutorial/survival_redstone_img/51.webp)
+
+![52](/guide/tutorial/survival_redstone_img/52.webp)
 
 相较于金合欢的三无，这款TNT复制的耗材更少，但是有在特定坐标失效的风险。相较于串联，这种TNT复制模块更适合横向堆叠或者竖向堆叠。
 
