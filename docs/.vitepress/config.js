@@ -88,6 +88,7 @@ export default {
                     link: '/about/server'
                 }
             ],
+            '/guide/tutorial/survival_redstone': 'auto',
             '/': [
                 {
                     text: '复读指南',
