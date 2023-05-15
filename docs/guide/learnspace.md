@@ -22,6 +22,15 @@
 [燕山大学MC社顾梵同学的服务器课程](https://www.bilibili.com/video/BV1624y1M7b4)
 :::
 
+### 崩溃报告
+
+::: tip 崩溃报告入门
+[崩溃日志阅读入门（深湖）](https://www.bilibili.com/read/cv9506774)
+[崩溃日志阅读入门（北葵）](https://www.bilibili.com/read/readlist/rl336711)
+这两篇教程可以帮助新手腐竹入门；
+但是只有积累大量经验并好好使用你所学的英语才能更精准的判断。
+:::
+
 ### 插件
 
 ### 网络
