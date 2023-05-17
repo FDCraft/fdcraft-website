@@ -13,7 +13,7 @@
 ### 生电
 
 ::: tip 
-[PL的生电教程](/guide/tutorial/survival_redstone)
+[PL的生电教程](https://docs.qq.com/doc/DSHFZYXZBSmRJU09h)
 :::
 
 ### 建筑

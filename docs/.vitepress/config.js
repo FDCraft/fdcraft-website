@@ -36,7 +36,7 @@ export default {
                 items: [
                     {
                         text: '旦星一号',
-                        link: 'https://mc.fdc.jingyijun.xyz:20410/'
+                        link: 'http://mc.fdc.jingyijun.xyz:20410/'
                     }
                 ]
             },
