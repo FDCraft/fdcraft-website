@@ -7,13 +7,13 @@ import pkg from '../../package.json'
 export default {
     title: 'FDCraft',
     lang: 'zh-CN',
-    description: '复读世界𒆙',
+    description: '基岩社',
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
     ],
     themeConfig: {
         repo: pkg.repository,
-        siteTitle: '基岩社 | FDCraft',
+        siteTitle: 'FDCraft | 基岩社',
         logo: '/logo.svg',
         docsBranch: 'main',
         editLinks: false,
@@ -21,7 +21,7 @@ export default {
 
         search: {
             provider: 'local'
-          },
+        },
 
         nav: [
             { text: '复读指南', link: '/guide/' },
@@ -30,7 +30,7 @@ export default {
             { text: '关于', link: '/about/' },
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
             { text: '复读百科', link: 'https://docs.qq.com/doc/DR0lJYVhWcGZUa0lk' },
-            { text: '资源库', link: 'https://cloud.fdc.jingyijun.xyz' },            
+            { text: '资源库', link: 'https://cloud.fdc.jingyijun.xyz' },
             {
                 text: '旦星 SPS',
                 items: [
@@ -44,25 +44,25 @@ export default {
                 text: '友情链接',
                 items: [
                     {
-                        text: 'MUA',
-                        link: 'https://mualliance.ltd/'
-                    },
-                    {
-                        text: '上海交通大学Minecraft社',
+                        text: '上海交通大学 Minecraft 社',
                         link: 'https://mc.sjtu.cn/'
                     },
                     {
-                        text: '山商Minecraft煤炭社',
+                        text: '山商 Minecraft 煤炭社',
                         link: 'https://www.mualliance.ltd/archives/463'
                     },
                     {
-                        text: '燕山大学Minecraft学生同好者协会',
+                        text: '燕山大学 Minecraft 学生同好者协会',
                         link: 'https://www.ysumc.club/'
                     },
                     {
                         text: '塔里木大学方块协作社',
                         link: 'https://www.tarucraft.club/'
-                    },                   
+                    },
+                    {
+                        text: 'MUA',
+                        link: 'https://mualliance.ltd/'
+                    },
                     {
                         text: '牛腩小镇',
                         link: 'https://www.newnan.city/'
@@ -92,17 +92,14 @@ export default {
             '/': [
                 {
                     text: '复读指南',
-                    children: [
-                        {   text: '复读公约',
+                    items: [
+                        {
+                            text: '复读公约',
                             link: '/guide/rules'
                         },
                         {
                             text: '新人指南',
                             link: '/guide/newbie'
-                        },
-                        {
-                            text: '第一天',
-                            link: '/guide/'
                         },
                         {
                             text: '特性简介',
@@ -119,7 +116,7 @@ export default {
                     ]
                 }, {
                     text: '官方设施',
-                    children: [
+                    items: [
                         {
                             text: '功能性建筑',
                             link: '/guide/functional-buildings'
@@ -131,6 +128,14 @@ export default {
                     ]
                 }
             ]
+        },
+        footer: {
+            // message: '基岩社欢迎你！',
+            copyright: 'Copyright © 2020-present KYLN24 & 基岩社'
+        },
+        docFooter: {
+            prev: '上一页',
+            next: '下一页'
         }
     }
 }

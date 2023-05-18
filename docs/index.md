@@ -1,76 +1,47 @@
 ---
-home: true
+layout: home
+title: FDCraft
 heroImage: /logo.svg
-actionText: 开始
-actionLink: /guide/newbie
 
-altActionText: 动态
-altActionLink: /news/
-
+hero:
+  name: FDCraft
+  text: 复旦大学基岩社
+  actions:
+  - theme: brand
+    text: 开始
+    link: /guide/newbie
+  - theme: alt
+    text: 动态
+    link: /news/
 features:
   - title: 🌏 平行世界
-    details: 世界树展开枝条，延展至不同的维度，绽放出不一样的平行世界
+    details: 生存、模组、创造...应有尽有，还有穿梭到其他高校的神秘虫洞
   - title: 👔 史蒂夫的衣柜
-    details: 建立 FDCraft 用户中心皮肤站，可以上传分享皮肤
-  - title: 🛠️ 生电专家
-    details: 在【生存世界：复读大陆】尽情炫技，当然，得在服务器配置允许范围内
+    details: 自建 FDCraft 用户中心账户系统，可上传分享自定义皮肤
+  - title: 🛠️ 科技专家
+    details: 加入红石与模组插件部门，一起探索 Minecraft 的无限可能
   - title: 🏠 建筑大师
-    details: 无论生存世界还是创造世界，都是展现才华的绝佳舞台
+    details: 展现才华的绝佳舞台，还有复刻复旦校园的像素复旦计划等你参加
   - title: 🖥️ 搞点幕后技术
     details: 参与服务器的开发与运维，一起整点好活儿
-  - title: 📖 二创
-    details: 参与世界树背景故事的构建，也可以创作关于 Minecraft 的同人图文
-footer: Copyright © 2023-present KYLN24 & 基岩社
+  - title: 📖 我是萌新
+    details: 公众号不定期发动活动通知与新手教程
 ---
+<script setup>
+import IndexView from "./IndexView.vue";
+</script>
 
-<div class="homepage">
+<IndexView/>
 
-  <h2>服务器状态</h2>
+<style>
+.desc {
+  text-align: center;
+  color: #999;
+  margin-bottom: 2rem;
+}
 
-  <a href="https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz" target="_blank"><img
-      src="https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz/banner.svg" alt="mc.fdc.jingyijun.xyz FDCraft" width="600"
-      height="100" /></a>
-
-  <p class="desc">由 <a href="https://minecraftlist.com" target="_blank">minecraftlist.com</a> 提供状态监测服务</p>
-
-  <h2>三周目画廊</h2>
-
-  <div class="x-imgs">
-    <img src="/img/gallary/2023-03-22_00.07.09.webp" alt="服务器图片展示" />
-    <img src="/img/gallary/2023-03-21_13.39.18.webp" alt="服务器图片展示" />
-    <img src="/img/gallary/2023-03-21_13.19.32.webp" alt="服务器图片展示" />
-    <img src="/img/gallary/2023-03-21_13.39.09.webp" alt="服务器图片展示" />
-  </div>
-
-  <h2>二周目画廊</h2>
-
-  <div class="x-imgs">
-    <img src="/img_old/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
-    <img src="/img_old/7RCMFCENIE9XDJWPY1V77JDECCFPX2LXEEPLSS3JIKEP5MKM.webp" alt="服务器图片展示" />
-    <img src="/img_old/ONI4MW2H0JVTRJBN8E7MO6AK9WBHORC2XTL0CZCCZRVUEIZFRBSCSJ8LC81PI.webp" alt="服务器图片展示" />
-    <img src="/img_old/1SHEODILJFKET4VDJAIL6ERFBERA2EA7DK1SKW0NDOAPC8NI2HGPT.webp" alt="服务器图片展示" />
-  </div>
-
-  <h2>合影</h2>
-
-  <img src="/img/2023-01-21_21.54.31.webp" alt="除夕合影（还有交大的同学一起~）" />
-
-  <p class="desc">2022/1/21 除夕合影</p>
-
-  <img src="/img_old/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
-
-  <p class="desc">2022/10/1 国庆合影</p>
-
-  <img src="/img_old/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
-
-  <p class="desc">2022/9/10 中秋合影</p>
-
-  <img src="/img_old/482017EB4CCD40D894AB766867409E86.webp" alt="社团落成合影" />
-
-  <p class="desc">2022/3/8 社团落成合影</p>
-
-  <img src="/img_old/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
-
-  <p class="desc">2021/9/21 中秋合影</p>
-
-</div>
+.content img {
+  box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 0.1);
+}
+</style>
+`
