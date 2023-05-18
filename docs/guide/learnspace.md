@@ -12,11 +12,19 @@
 
 ### 生电
 
-::: tip 
+::: tip PL的生电教程
 [PL的生电教程](https://docs.qq.com/doc/DSHFZYXZBSmRJU09h)
 :::
 
 ### 建筑
+
+::: tip XeKr的建筑学理论
+[XeKr的建筑学理论](https://space.bilibili.com/5930630/channel/seriesdetail?sid=233710)
+:::
+
+::: tip 夜寒的中世纪建筑教程
+[简单易学](https://space.bilibili.com/2058406/channel/seriesdetail?sid=2333018)
+:::
 
 ## 服务器运维
 
@@ -28,12 +36,15 @@
 
 ### 崩溃报告
 
-::: tip 崩溃报告入门
+::: tip 崩溃报告入门（深湖）
 [崩溃日志阅读入门（深湖）](https://www.bilibili.com/read/cv9506774)
+:::
+
+::: tip 崩溃报告入门（北葵）
 [崩溃日志阅读入门（北葵）](https://www.bilibili.com/read/readlist/rl336711)
+:::
 这两篇教程可以帮助新手腐竹入门；
 但是只有积累大量经验并好好使用你所学的英语才能更精准的判断。
-:::
 
 ### 插件
 
