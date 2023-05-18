@@ -1,6 +1,0 @@
-{
-    "workbench.colorTheme": "One Dark Pro",
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": "file:///d%3A/Project/Code/JavaScript/fdcraft-website/.github/workflows/deploy.yml"
-    }
-}
