@@ -15,9 +15,9 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: "17"
+          node-version: "18"
 
-      - run: yarn install
+      - run: pnpm install
 
       - name: Configure git
         run: |
@@ -27,7 +27,7 @@ jobs:
       - name: Build
         run: |
           set -e
-          yarn build
+          pnpm build
 
       - name: Deploy
         env:
