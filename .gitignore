@@ -1,7 +1,7 @@
 .history
 node_modules
 dist
-pnpm-lock.yaml
+yarn.lock
 .vscode
 .vitepress/cache
 cache

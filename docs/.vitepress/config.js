@@ -37,6 +37,14 @@ export default {
                     {
                         text: '旦星一号',
                         link: 'http://mc.fdc.jingyijun.xyz:20410/'
+                    },
+                    {
+                        text: '旦星二号',
+                        link: 'http://mc.fdc.jingyijun.xyz:20411/'
+                    },
+                    {
+                        text: '旦星三号',
+                        link: 'http://mc.fdc.jingyijun.xyz:27216/'
                     }
                 ]
             },
