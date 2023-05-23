@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: "18"
 
-      - run: pnpm install
+      - run: yarn install
 
       - name: Configure git
         run: |
@@ -27,7 +27,7 @@ jobs:
       - name: Build
         run: |
           set -e
-          pnpm build
+          yarn build
 
       - name: Deploy
         env:

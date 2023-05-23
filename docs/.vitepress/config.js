@@ -72,7 +72,7 @@ export default {
         ],
 
         sidebar: {
-            '/news/': false,
+            '/news/': [],
             '/the-tree/': 'auto',
             '/about/': [
                 {

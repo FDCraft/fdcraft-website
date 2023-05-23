@@ -5,11 +5,12 @@
   "author": "FDCraft",
   "repository": "https://github.com/fdcraft/fdcraft-website",
   "scripts": {
+    "predev": "rd /s /q node_modules\\.vite",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
-  "devDependencies": {
-    "vitepress": "1.0.0-alpha.75"
+  "dependencies": {
+    "vitepress": "^1.0.0-beta.1"
   }
 }
