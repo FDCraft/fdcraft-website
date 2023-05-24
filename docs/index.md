@@ -44,4 +44,3 @@ import IndexView from "./IndexView.vue";
   box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 0.1);
 }
 </style>
-`
