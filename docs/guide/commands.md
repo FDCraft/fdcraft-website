@@ -138,10 +138,10 @@ FDC的建筑榜不是由这个插件构建的，不适用这里的命令。
 | !!stats save <代名> <统计类别> <统计内容> <标题>             | 保存一个统计某个统计内容的快速计分板。               |
 | !!stats del <代名>                                           | 移除某个快速计分板。                                 |
 | !!stats list                                                 | 列出已保存的快速计分板。                             |
-| !!stats query <玩家> <统计类别> <统计内容> [<-uuid>] [<-tell>] | 查询某个玩家某个统计内容的数值。                     |
-| !!stats query <玩家> <代名> [<-uuid>] [<-tell>]              | 查询某个玩家某个快速计分板的数值。                   |
-| !!stats rank <统计类别> <统计内容> [<-tell>]                 | 在聊天栏显示某个统计内容的排行。                     |
-| !!stats rank <代名> [<-tell>]                                | 在聊天栏显示某个快速计分板的排行。                   |
+| !!stats query <玩家> <统计类别> <统计内容> [< -uuid>] [< -tell>] | 查询某个玩家某个统计内容的数值。                     |
+| !!stats query <玩家> <代名> [< -uuid>] [< -tell>]            | 查询某个玩家某个快速计分板的数值。                   |
+| !!stats rank <统计类别> <统计内容> [< -tell>]                | 在聊天栏显示某个统计内容的排行。                     |
+| !!stats rank <代名> [< -tell>]                               | 在聊天栏显示某个快速计分板的排行。                   |
 | !!stats scoreboard <统计类别> <统计内容> (标题)              | 显示一个一个统计某个统计内容的快速计分板，但不保存。 |
 | !!stats scoreboard <代名>                                    | 显示某个快速计分板。                                 |
 | !!stats scoreboard show                                      | 显示该插件的计分板。                                 |
@@ -156,8 +156,8 @@ FDC的建筑榜不是由这个插件构建的，不适用这里的命令。
 |            | picked_up, used, mined, broken, crafted：物品/方块ID         |
 |            | custom：详见统计信息的json文件，或 [MC Wiki](https://minecraft.fandom.com/zh/wiki/统计信息) |
 |            | 上述内容无需带`minecraft:`前缀                               |
-| [<-uuid>]  | 用uuid替换玩家名。                                           |
-| [<-tell>]  | 仅自己可见。                                                 |
+| [< -uuid>] | 用uuid替换玩家名。                                           |
+| [< -tell>] | 仅自己可见。                                                 |
 
 ### 其他
 
