@@ -35,11 +35,8 @@ import IndexView from "./IndexView.vue";
 
 <style>
 .desc {
-  text-align: center;
   color: #999;
-  margin-bottom: 2rem;
 }
-
 .content img {
   box-shadow: 0px 0px 30px 0px rgba(50, 50, 50, 0.1);
 }
