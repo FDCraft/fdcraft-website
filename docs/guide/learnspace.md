@@ -48,6 +48,10 @@
 
 但是只有积累大量经验并好好使用你所学的英语才能更精准的判断。
 
+::: tip PL崩溃报告宝典
+[/guide/tutorial/crashreport/](/guide/tutorial/crashreport/)
+:::
+
 ### 插件
 
 ### 网络

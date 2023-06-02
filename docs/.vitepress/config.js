@@ -97,6 +97,21 @@ export default {
                 }
             ],
             '/guide/tutorial/survival_redstone': 'auto',
+            '/guide/tutorial/crashreport/': [
+                {
+                    text: 'PL的崩溃报告宝典',
+                    items: [
+                        {
+                            text: '首页',
+                            link: '/guide/tutorial/crashreport/'
+                        },
+                        {
+                            text: '崩溃报告和日志在哪里？',
+                            link: '/guide/tutorial/crashreport/Episode1'
+                        }
+                    ]
+                }
+            ],
             '/': [
                 {
                     text: '复读指南',
