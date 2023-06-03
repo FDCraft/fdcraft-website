@@ -16,7 +16,7 @@
 
 
 
-![Driving with your eyes closed](./img/Episode1/1.jpg)
+![Driving with your eyes closed](./img/Episode1/1.webp)
 
 
 
@@ -26,11 +26,11 @@
 
 
 
-![？](./img/Episode1/2.jpg)
+![？](./img/Episode1/2.webp)
 
 
 
-这两张图特意使用了png，以便复制到QQ群中。好，让我们言归正传，崩溃报告和日志究竟在哪里呢？
+好，让我们言归正传，崩溃报告和日志究竟在哪里呢？
 
 ## 面向普通玩家
 
