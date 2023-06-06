@@ -108,7 +108,11 @@ export default {
                         {
                             text: '崩溃报告和日志在哪里？',
                             link: '/guide/tutorial/crashreport/Episode1'
-                        }
+                        },
+                        {
+                            text: '认识崩溃报告',
+                            link: '/guide/tutorial/crashreport/Episode2'
+                        }                        
                     ]
                 }
             ],
