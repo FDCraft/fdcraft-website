@@ -158,7 +158,7 @@ Details:
 ```java
 java.lang.Exception: Mod Loading has failed
 	at net.minecraftforge.fml.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:71) ~[forge-1.16.5-36.2.39_mapped_official_1.16.5-recomp.jar:?] {re:classloading}
-	at ……
+	at ...
 ```
 
 关于StackTrace，可以先看看下面这篇文章：
@@ -166,3 +166,116 @@ java.lang.Exception: Mod Loading has failed
 [什么是堆栈追踪(StackTrace)？如何利用StackTrace对程序进行调试？](https://blog.csdn.net/vector_yi/article/details/22933973)
 
 对于Minecraft来说，你不能去更改Java/Minecraft/Forge or Fabric，很多时候连Mod也无法更改。而这也是MC崩溃的独特之处：**MC的崩溃很可能是玩家的误操作所造成的。**除了空指针异常NullPointerException以外，其他类型的Exception有95%可以通过不修改Mod的方式解决，其中又有70%是玩家的误操作造成的。
+
+### 分割线
+
+```markdown
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+```
+
+### Head
+
+```
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraftforge.fml.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:74) ~[forge:?] {re:classloading}
+```
+
+一般来说，Head里面没有什么有效的信息。
+
+`Thread`：发生错误的线程，一般都是`Render thread`。
+
+此处的StackTrace通常就是最顶上的那个堆栈追踪。
+
+### Details
+
+```markdown
+-- NO MOD INFO AVAILABLE --
+Details:
+	Mod File: NO FILE INFO
+	Failure message: The Mod File C:\Users\Roland\Desktop\workspace\ModProject\forge\forge-1.16.5-36.2.39-mdk\out\production\resources has mods that were not found
+	...
+```
+
+这部分的内容会随着报错的改变而改变。
+
+这个报告的报错为`Mod loading error has occurred`，因此此处出现的是`Mod Info`。至于出现`NO MOD INFO AVAILABLE`是因为这里出错的是Forge。
+
+后面按照报错描述对崩溃报告进行分类时会详细讲解这部分。
+
+### System Details
+
+这里记载了一些环境相关的信息。在有些时候会用到这些东西来进行诊断。
+
+`Minecraft Version: 1.16.5`：MC版本
+
+`Operating System: Windows 10 (amd64) version 10.0`：操作系统，如果是Mac则是可疑点
+
+`Java Version: 1.8.0_341, Oracle Corporation`：Java版本与发行商，**小心Openj9！**
+
+`Memory`：内存
+
+`JVM Flags`：JVM虚拟机参数
+
+`Forge: net.minecraftforge:36.2.39`：Forge版本
+
+### Mod List
+
+在很多时候，你找到的有嫌疑的Mod是以Mod ID的形式出现的。你可能知道哪个Mod对应哪个文件；但是普通玩家可能并不知道。此时你需要翻到这里，寻找相应的文件名。Mod List不同版本的格式差异比较大，但一般都有文件名与Mod ID的对应。
+
+此外，对于低版本的Forge来说，这个部分也可以成为诊断的标准。在每个Mod前面会写有`Status`表明这个Mod的状态，状态码不正常的即为出错的Mod。
+
+状态码: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+::: tip 1.7.10 的Mod List
+
+```markdown
+	UCHIJAAAA	Mekanism{9.1.0} [Mekanism] (Mekanism-1.7.10-9.1.0.281.jar) 
+```
+
+:::
+
+::: tip 1.12.2 的Mod List
+
+```markdown
+	| State  | ID       | Version | Source                        | Signature  |
+	|:------ |:-------- |:------- |:----------------------------- |:---------- |
+	| LCHIJA | mekanism | 9.8.3   | Mekanism-1.12.2-9.8.3.390.jar | None       |
+```
+:::
+
+::: tip 1.16.5 的Mod List
+
+```markdown
+	Mekanism-1.18.2-10.2.5.465.jar |Mekanism |mekanism |10.2.5 |DONE |Manifest: NOSIGNATURE
+```
+
+:::
+
+### 其他乱七八糟的东西
+
+```markdown
+	RoadRunner != Lithium: This instance was launched using RoadRunner, which is an *unofficial* Lithium fork! Please **do not** report bugs to them!
+```
+
+在崩溃报告的最后经常会出现一些乱七八糟的信息。通常这些东西并不重要。
+
+唯一要注意的是在Client的崩溃报告中会出现这么个东西：
+
+```markdown
+	Backend API: AMD Radeon(TM) Graphics GL version 4.6.13596 Compatibility Profile Context 20.10.44.04 27.20.11044.4003, ATI Technologies Inc.
+```
+
+如果这里出现的是A卡，有可能出现渲染的问题。
+
+::: tip 
+
+如果你看的崩溃报告足够多，还有一个东西是需要看的：
+
+`Launched Version: 忘却之刻 — Times Of Oblivion`：版本名称（整合包名称）
+
+同一个整合包出现的报错往往是相同的（前提是没有乱加Mod），而出错千奇百怪的整合包会被PL列入黑名单直接劝退（如 Isekai Life's Fantasy）。
+
+:::
