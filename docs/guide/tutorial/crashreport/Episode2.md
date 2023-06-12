@@ -165,7 +165,7 @@ java.lang.Exception: Mod Loading has failed
 
 [什么是堆栈追踪(StackTrace)？如何利用StackTrace对程序进行调试？](https://blog.csdn.net/vector_yi/article/details/22933973)
 
-对于Minecraft来说，你不能去更改Java/Minecraft/Forge or Fabric，很多时候连Mod也无法更改。而这也是MC崩溃的独特之处：**MC的崩溃很可能是玩家的误操作所造成的。**除了空指针异常NullPointerException以外，其他类型的Exception有95%可以通过不修改Mod的方式解决，其中又有70%是玩家的误操作造成的。
+对于Minecraft来说，你不能去更改Java/Minecraft/Forge or Fabric，很多时候连Mod也无法更改。而这也是MC崩溃的独特之处，**MC的崩溃很可能是玩家的误操作所造成的**。除了空指针异常NullPointerException以外，其他类型的Exception有95%可以通过不修改Mod的方式解决，其中又有70%是玩家的误操作造成的。
 
 ### 分割线
 
