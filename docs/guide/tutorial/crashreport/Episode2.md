@@ -28,7 +28,7 @@ crash-2023-01-02_06.11.37-server.txt
 
 下面是一个比较典型的崩溃报告：
 
-[crash-2023-01-28_17.16.47-fml.txt](https://cloud.fdc.jingyijun.xyz/Resourcepacks/crash-2023-01-28_17.16.47-fml.txt)
+[crash-2023-01-28_17.16.47-fml.txt](https://cloud.fdc.jingyijun.xyz/CrashReports/crash-2023-01-28_17.16.47-fml.txt)
 
 ::: details 我不建议你在这里看
 
@@ -166,6 +166,10 @@ java.lang.Exception: Mod Loading has failed
 [什么是堆栈追踪(StackTrace)？如何利用StackTrace对程序进行调试？](https://blog.csdn.net/vector_yi/article/details/22933973)
 
 对于Minecraft来说，你不能去更改Java/Minecraft/Forge or Fabric，很多时候连Mod也无法更改。而这也是MC崩溃的独特之处，**MC的崩溃很可能是玩家的误操作所造成的**。除了空指针异常NullPointerException以外，其他类型的Exception有95%可以通过不修改Mod的方式解决，其中又有70%是玩家的误操作造成的。
+
+StackTrace的第一行抛出的异常是非常重要的，因为有时候报错表述并不能提供什么有效信息。
+
+要注意的是，StackTrace有时候会有`Caused by`部分，这时候`Cause by`后面抛出的异常也要作为判断依据。
 
 ### 分割线
 

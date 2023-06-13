@@ -106,12 +106,25 @@ export default {
                             link: '/guide/tutorial/crashreport/'
                         },
                         {
-                            text: '崩溃报告和日志在哪里？',
+                            text: 'Episode1 崩溃报告和日志在哪里？',
                             link: '/guide/tutorial/crashreport/Episode1'
                         },
                         {
-                            text: '认识崩溃报告',
+                            text: 'Episode2 认识崩溃报告',
                             link: '/guide/tutorial/crashreport/Episode2'
+                        },
+                        {
+                            text: 'Episode3 崩溃报告分类',
+                            items: [
+                                {
+                                    text: 'Mod Loading has failed',
+                                    link: '/guide/tutorial/crashreport/Episode3-1'
+                                },
+                                {
+                                    text: 'NoClassFound',
+                                    link: '/guide/tutorial/crashreport/Episode3-2'                                    
+                                }
+                            ]
                         }                        
                     ]
                 }

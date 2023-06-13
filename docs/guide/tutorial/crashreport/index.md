@@ -17,3 +17,17 @@
 这本宝典很多时候只进行归纳。如果你发现宝典的内容与现行教程有相同之处，是正常的现象。
 
 :::
+
+::: tip 宝典的参考文献 
+
+[崩溃报告入门（深湖）](https://www.bilibili.com/read/cv9506774)
+
+[崩溃报告入门（北葵）](https://www.bilibili.com/read/readlist/rl336711)
+
+[崩溃报告入门（森林蝙蝠）1](https://www.bilibili.com/read/cv26220)
+
+[崩溃报告入门（森林蝙蝠）2](https://www.bilibili.com/read/cv27080)
+
+[崩溃报告入门（森林蝙蝠）3](https://www.bilibili.com/read/cv35870)
+
+:::
