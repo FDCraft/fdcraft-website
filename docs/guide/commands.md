@@ -9,6 +9,12 @@
 
 ## Bukkit插件指令
 
+ ::: tip 
+
+WorldEdit与TwkBezierTemplate的指令不会在此处列出，请前往[教程搬运](/guide/learnspace)查看相应教程。
+
+ :::
+
 ### 消息
 
 | 指令  | 描述                           |
