@@ -20,7 +20,9 @@
 
 ::: tip 宝典的参考文献 
 
-[崩溃报告入门（深湖）](https://www.bilibili.com/read/cv9506774)
+[崩溃报告入门（深湖）1](https://www.bilibili.com/read/cv9506774)
+
+[崩溃报告入门（深湖）2](https://www.bilibili.com/read/cv21439181)
 
 [崩溃报告入门（北葵）](https://www.bilibili.com/read/readlist/rl336711)
 

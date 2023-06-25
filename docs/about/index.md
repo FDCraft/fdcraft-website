@@ -1,6 +1,6 @@
 # FDCraft
 
-FDCraft 是由 Kylin24Kwok 于 2020 年 12 月发起的面向复旦大学 Minecraft 爱好者的系列多人联机服务器。
+FDCraft 是由 KYLN24 于 2020 年 12 月发起的面向复旦大学 Minecraft 爱好者的系列多人联机服务器。
 
 QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F_zgiArVk&jump_from=webapi)
 
@@ -10,7 +10,7 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 
 |                             | FDC 云计算中心 |
 | --------------------------- | -------------- |
-| 腐竹（网络 / 软件 / 运维）  | Kylin24Kwok    |
+| 腐竹（网络 / 软件 / 运维）  | KYLN24 |
 | 运维助理                  | Polaris_Light    |
 | 物理腐竹（云储存 / 云计算）  | JingYiJun       |
 | 群主                     | BeatGeneration |

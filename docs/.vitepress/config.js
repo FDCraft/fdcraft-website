@@ -114,7 +114,7 @@ export default {
                             link: '/guide/tutorial/crashreport/Episode2'
                         },
                         {
-                            text: 'Episode3 崩溃报告分类',
+                            text: 'Episode3 崩溃报告分类&解决方法',
                             items: [
                                 {
                                     text: 'Mod Loading has failed',
@@ -134,11 +134,15 @@ export default {
                     text: '复读指南',
                     items: [
                         {
+                            text: '新人指南',
+                            link: '/guide/'
+                        },
+                        {
                             text: '复读公约',
                             link: '/guide/rules'
                         },
                         {
-                            text: '新人指南',
+                            text: '第一天',
                             link: '/guide/newbie'
                         },
                         {
