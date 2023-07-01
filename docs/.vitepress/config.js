@@ -117,15 +117,27 @@ export default {
                             text: 'Episode3 崩溃报告分类&解决方法',
                             items: [
                                 {
+                                    text: '序言',
+                                    link: '/guide/tutorial/crashreport/Episode3'
+                                },
+                                {
                                     text: 'Mod Loading has failed',
                                     link: '/guide/tutorial/crashreport/Episode3-1'
                                 },
                                 {
                                     text: 'NoClassFound',
                                     link: '/guide/tutorial/crashreport/Episode3-2'                                    
-                                }
+                                },
+                                {
+                                    text: 'Invalid id 4096',
+                                    link: '/guide/tutorial/crashreport/Episode3-3'                                    
+                                }                                
                             ]
-                        }                        
+                        },
+                        {
+                            text: 'Episode4 圣经',
+                            link: '/guide/tutorial/crashreport/Episode4'
+                        }
                     ]
                 }
             ],

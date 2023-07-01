@@ -57,5 +57,5 @@ Description: There was a severe problem during mod loading that has caused the g
 
 这种情况在开发环境中更多见。一个Mod使用了自己的类却没找到，说明这个Mod写出了Bug。
 
-解决方法是将Mod给Disabled掉并在Github上提Issue，或者尝试将Mod更新至最新版。
+解决方法是将Mod给禁用掉并在Github上提Issue，或者尝试将Mod更新至最新版。
 

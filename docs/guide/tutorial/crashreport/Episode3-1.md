@@ -1,4 +1,10 @@
-# Mod Loading has failed
+# Mod loading error has occurred
+
+这一类报错的特征是这样的：
+
+```markdown
+Description: Mod loading error has occurred
+```
 
 顾名思义，有一个Mod加载时发生了错误。这种情况还有一个明显的特征：Details部分会出现Mod Info，指示是哪个Mod出现了问题。一般来说这种异常会发生在`fml`，但有时候也会发生在`server`。
 
