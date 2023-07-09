@@ -81,9 +81,9 @@
 
 ## 插件开发
 
-::: tip 小马的Bukkit插件开发教程（尚未部署）
+::: tip InsidePlugins 补订《插件开发日记》
 
-[https://github.com/InsidePlugins/plugin-diary-docs](https://github.com/InsidePlugins/plugin-diary-docs)
+[https://plugindiary.pvpin.org/](https://plugindiary.pvpin.org/)
 
 :::
 

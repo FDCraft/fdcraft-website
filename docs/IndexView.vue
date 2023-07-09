@@ -31,7 +31,7 @@
 
         <img src="/img/2023-01-21_21.54.31.webp" alt="除夕合影（还有交大的同学一起~）" />
 
-        <p class="desc">2022/1/21 除夕合影</p>
+        <p class="desc">2023/1/21 除夕合影</p>
 
         <img src="/img_old/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
 
