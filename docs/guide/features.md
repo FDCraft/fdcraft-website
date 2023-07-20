@@ -40,3 +40,27 @@
 - Boom 提供的地图保护
   - 苦力怕爆炸不破坏地形（但依然造成伤害并摧毁掉落物）
   - 火焰不蔓延
+
+## 生电友好
+
+- 基于Leaves的Mod协议
+
+  - Carpet 精确放置协议
+  - [PCA](https://github.com/plusls/plusls-carpet-addition) 数据同步协议
+  - [Syncmatica](https://github.com/End-Tech/syncmatica) 共享原理图
+  -  [Jade](https://github.com/Snownee/Jade) 信息显示协议
+  - [BBOR](https://github.com/irtimaled/BoundingBoxOutlineReloaded) 结构显示协议
+  - [AppleSkin](https://github.com/squeek502/AppleSkin) 饱食度显示
+  - [Xaero's World Map](https://minecraft.curseforge.com/projects/xaeros-world-map) 和 [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) 地图自动识别
+  -  Minihud mspt信息同步 (需要[Bladeren](https://github.com/LeavesMC/Bladeren))
+
+- 基于Leaves的特性
+
+  - [Leaves假人](https://docs.leavesmc.top/zh/leaves/fakeplayer)
+  - 刷沙、刷线、虚空交易修复
+  - 重新引入1.19前的瞬时方块更新机制，使更新抑制器可用
+  - 手持剪刀右键可旋转部分红石元件
+  - 创造穿墙
+  
+  
+

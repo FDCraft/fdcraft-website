@@ -1,6 +1,6 @@
 # 联动服务器
 
-联动服务器除非特殊说明, 均使用 FDCraft 账户登录。
+联动服务器除非特殊说明, 均可使用 FDCraft 账户登录。
 
 ## 联合大厅
 
@@ -8,7 +8,7 @@
 
 2023年1月底，在基于高校联盟联合验证机制已基本成熟、投入推广使用的背景下，联合大厅建设计划重新启动，并在经过讨论后得到了一个更简单、更易维护的实施方案。各高校可以在保留原有的接入方式的情况下，通过接入联合大厅，使得其他高校的同学能够通过联合大厅访问高校服务器，无需一个个查找服务器地址。
 
-### 已接入学校（2023.4.23，标签名首字母排序）
+### 已接入学校（2023.7.12，标签名首字母排序）
 
 所有拥有子服的服务器均可以使用 ` /server `指令切换子服。
 
@@ -16,13 +16,13 @@
 | ---------------- | --------------- |
 | 中南大学         | CSU-MC，有子服  |
 | 复旦大学         | FDC，有子服     |
-| 华北水利水电大学 | ncwu            |
 | 西北大学         | NWU、NWUsur     |
-| 北京大学         | PKU             |
+| 上海应用技术大学 | SITMC（仅大厅） |
 | 上海交通大学     | SJMC，有子服    |
 | 塔里木大学       | TaruCraftGroup  |
 | 西安建筑科技大学 | XAUAT           |
 | 西安交通大学     | XJTUMC_Survival |
+| 燕山大学         | YSUServerGroup  |
 
 ### 服务器地址
 
@@ -34,9 +34,6 @@
 | 方块交大服务器（SJMC，方块交大） | build.sjmc.club      |
 | SJMC SMP（SJMC，SJMC SMP）       | smp.sjmc.club        |
 | MUA（lobby）                     | lobby.mualliance.ltd |
-| 华北水利水电大学（ncwu）         | mc.ncwumc.com        |
-
-
 
 ## 上海交通大学
 
@@ -45,9 +42,9 @@
 | 代号     | SMP                                                          |
 | -------- | ------------------------------------------------------------ |
 | 状态     | ![SJMC 1.19.2](https://minecraftlist.com/servers/smp.sjmc.club/banner.svg) |
-| 地址     | smp.sjmc.club 或者 进入fdc后使用指令 `/server smp` 进入      |
+| 地址     | smp.sjmc.club    |
 | 网站     | [SMP生存 - SJMC](https://mc.sjtu.cn/2021/12/26/%e7%ba%af%e5%87%801-18-1%e7%94%9f%e5%ad%98/) |
-| 游戏版本 | JE 1.19.4                                                    |
+| 游戏版本 | JE 1.20.1                                                    |
 | 核心类型 | Purpur                                                       |
 | 特色     | 原版生存                                                     |
 | 备用地址 | 1.19.sjmc.club                                               |
@@ -58,10 +55,18 @@
 | 代号     | SJTU                                                                                                |
 | -------- | -------------------------------------------------------------------------------------------------- |
 | 状态     | ![SJTU Creative Server](https://minecraftlist.com/servers/smp.sjmc.club/banner.svg)                |
-| 地址     | build.sjmc.club 或者 进入fdc后使用指令 `/server ` 进入                                             |
+| 地址     | build.sjmc.club                                          |
 | 网站     | [SJTU Creative Server](https://mc.sjtu.cn/2021/03/17/sjtu-vanilla-server-1-16-5/)                   |
 | 游戏版本 | JE 1.17.1                                                                                           |
 | 核心类型 | Purpur                                                                                              |
 | 特色     | 方块交大                                                                                            |
 | SJMC官网 | [SJTU Minecraft Club](https://mc.sjtu.cn)                                                                  |
+
+## 华北水利水电大学
+| 代号     | NCWU                                                                                                |
+| -------- | -------------------------------------------------------------------------------------------------- |
+| 地址     | sc.ncwu.love 或 zf.ncwu.love                                             |
+| 游戏版本 | JE 1.20.1                                                                                           |
+| 核心类型 | Leaves                                                                                             |
+| 特色     | 原版生存                                                                                        |
 
