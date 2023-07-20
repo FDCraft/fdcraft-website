@@ -26,7 +26,7 @@
 
 南侧的是一座建立于很久以前的神社，供奉着未知的神明。
 
-![神社](./newbie_img/old_3.webp)
+![神社](./newbie_img/lobby_3.webp)
 
 现在，请你点击左侧聊天栏的 [FDC] 按钮，或者输入`/server fdc`，来进入主服务器。
 
