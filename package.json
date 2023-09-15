@@ -10,6 +10,6 @@
     "serve": "vitepress serve docs"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-beta.1"
+    "vitepress": "^1.0.0-rc.13"
   }
 }

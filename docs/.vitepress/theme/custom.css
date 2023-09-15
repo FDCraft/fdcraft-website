@@ -22,11 +22,9 @@
     --vp-c-text-light-2: #476582;
     --vp-c-text-light-3: #90a4b7;
 
-    --vp-c-brand: #f36c87;
-    --vp-c-brand-light: #fb98ab;
-    --vp-c-brand-lighter: #fdafbe;
-    --vp-c-brand-dark: #e94e6d;
-    --vp-c-brand-dark: #e32d51;
+    --vp-c-brand-1: #f36c87;
+    --vp-c-brand-2: #e94e6d;
+    --vp-c-brand-3: #e32d51;
     
     --vp-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     --vp-font-family-mono: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
