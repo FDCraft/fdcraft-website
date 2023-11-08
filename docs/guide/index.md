@@ -18,13 +18,12 @@ FDCraft 是一个以原版生存为主的插件服务器，主要面向复旦大
 
 ## 取得联系
 
-请加入我们的 QQ 群与QQ频道。
+请加入我们的 QQ 交流群与 KOOK 频道。
 
 > QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F_zgiArVk&jump_from=webapi)
 >
-> QQ频道：
+> KOOK：[基岩社的冒险家们](https://kook.top/mKvPtw)
 >
-> ![pd](./pd.jpeg)
 
 如果你有意向加入社团并成为骨干，请通过微信公众号“复旦大学学生社团”访问社团系统，搜索“基岩社”加入社团。
 
