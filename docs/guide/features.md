@@ -96,7 +96,7 @@
   - [Qrafty's Japanese Villages](https://www.mcmod.cn/class/12389.html)
   - [Qrafty's Bamboo Villages](https://www.mcmod.cn/class/12418.html)
 
-- [Mine Treasure]([Mine Treasure - MC百科|最大的Minecraft中文MOD百科 (mcmod.cn)](https://www.mcmod.cn/class/9105.html)) 挖矿爆宝箱
+- [Mine Treasure](https://www.mcmod.cn/class/9105.html) 挖矿爆宝箱
 
   
 
