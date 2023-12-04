@@ -12,17 +12,7 @@
 
 所有拥有子服的服务器均可以使用 ` /server `指令切换子服。
 
-| 学校             | 标签名          |
-| ---------------- | --------------- |
-| 中南大学         | CSU-MC，有子服  |
-| 复旦大学         | FDC，有子服     |
-| 西北大学         | NWU、NWUsur     |
-| 上海应用技术大学 | SITMC（仅大厅） |
-| 上海交通大学     | SJMC，有子服    |
-| 塔里木大学       | TaruCraftGroup  |
-| 西安建筑科技大学 | XAUAT           |
-| 西安交通大学     | XJTUMC_Survival |
-| 燕山大学         | YSUServerGroup  |
+学校目录: https://docs.mualliance.cn/zh/dev/union/lobby
 
 ### 服务器地址
 

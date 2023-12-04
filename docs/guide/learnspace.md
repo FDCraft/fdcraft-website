@@ -59,9 +59,9 @@
 
 ### 核心(Server Core)
 
-::: tip 燕山大学 MC 社顾梵同学的服务器基础课
+::: tip 服务端架设 & MUA相关技术文档
 
-[https://www.bilibili.com/video/BV1624y1M7b4](https://www.bilibili.com/video/BV1624y1M7b4)
+[https://docs.mualliance.cn/zh/dev](https://docs.mualliance.cn/zh/dev)
 
 :::
 

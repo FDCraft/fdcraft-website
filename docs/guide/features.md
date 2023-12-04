@@ -98,5 +98,8 @@
 
 - [Mine Treasure](https://www.mcmod.cn/class/9105.html) 挖矿爆宝箱
 
+  - 战利品表: https://mine-treasure.com/loot
+  
+  
   
 
