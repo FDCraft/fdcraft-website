@@ -156,6 +156,14 @@ export default {
                         {
                             text: '第一天',
                             link: '/guide/newbie'
+                        }
+                    ]
+                }, {
+                    text: '资料查询',
+                    items: [
+                        {
+                            text: '旦星 SPS',
+                            link: '/guide/sps'
                         },
                         {
                             text: '特性简介',
@@ -168,18 +176,6 @@ export default {
                         {
                             text: '教程搬运',
                             link: '/guide/learnspace'
-                        }
-                    ]
-                }, {
-                    text: '官方设施',
-                    items: [
-                        {
-                            text: '功能性建筑',
-                            link: '/guide/functional-buildings'
-                        },
-                        {
-                            text: '旦星 SPS',
-                            link: '/guide/sps'
                         }
                     ]
                 }
