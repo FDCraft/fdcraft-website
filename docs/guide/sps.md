@@ -22,7 +22,7 @@
 
 #### 标记点添加
 
-> /dynmap add id:\<id\> label:\<label\> icon:\<icon\> set:\<set-id\>
+> /dmarker add id:\<id\> label:\<label\> icon:\<icon\> set:\<set-id\>
 
 你可以使用`/dmarker list set:<set-id>` 指令查看现有的参数，来更好地理解下面的规则。理论上不需要这些参数也可以添加标记点，但是其结果是自动随机分配参数而不是留空。
 
