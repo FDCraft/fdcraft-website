@@ -174,6 +174,10 @@ export default {
                             link: '/guide/commands'
                         },
                         {
+                            text: 'Bot帮助',
+                            link: '/guide/bot'
+                        },
+                        {
                             text: '教程搬运',
                             link: '/guide/learnspace'
                         }

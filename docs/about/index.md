@@ -47,8 +47,8 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | 代号           | ppf                                                                               |
 | -------------- | --------------------------------------------------------------------------------- |
 | 服务器地址     | 进入fdc后使用指令 `/server ppf` 进入                                                  |
-| Minecraft 版本 | JE 1.20.1                                                                  |
-| 核心类型    | Gala                                                                 |
+| Minecraft 版本 | JE 1.20.4                                                                  |
+| 核心类型    | Leaves                                                               |
 
 ### 【模组探索服】
 
@@ -58,4 +58,4 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | -------------- | ------------------------------------------------------------ |
 | 状态           | ![Mod](https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz:25588/banner.svg) |
 | 服务器地址     | mc.fdc.jingyijun.xyz:25588                                   |
-| Minecraft 版本 | JE（具体版本详见群内S相关公告）                              |
+| Minecraft 版本 | JE（具体版本详见群内相关公告）                               |
