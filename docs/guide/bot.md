@@ -1,6 +1,6 @@
 # Bot帮助
 
-## 互通（ChatBridge）!!
+## 互通（ChatBridge）
 
 互通命令仅在互通QQ群以及KOOK的聊天互通频道中生效。服务器内查看图片请安装 ChatImage 模组。
 
@@ -12,7 +12,7 @@
 | !!stats           | 显示FDC的一些统计信息，具体见帮助 |
 | !!info            | 显示服务器状态                    |
 
-## 百橙（Sorabot）#
+## 百橙（Sorabot）
 
 暂时使用 Nonebot 实现。请查看 [Sorabot使用指南](https://100oj.com/zh/%E5%B7%A5%E5%85%B7/SoraBot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)（有部分出入）或者输入 `#help` 查看
 
@@ -64,10 +64,10 @@
 
 | 指令                                                         | 返回内容                       |
 | ------------------------------------------------------------ | ------------------------------ |
-| wordle -d [dict] -l [word_length]                            | wordle                         |
+| wordle -d \[dict\] -l \[word_length\]                        | wordle                         |
 | handle                                                       | 汉兜                           |
-| maze [-r --rows <ROWS>] [-c --cols <COLUMNS>]                | 走迷宫，使用WASD，转角自动转   |
-| ^(?=.\*[a-zA-Z])(?=.\*_)[a-zA-Z_]+(#(?=[a-zA-Z]+$)[a-zA-Z]\*)?$ | wordle帮助，大概长成`_cho#abd` |
+| maze \[-r --rows \<ROWS\>\] \[-c --cols \<COLUMNS\>\]        | 走迷宫，使用WASD，转角自动转   |
+| ^(?=.\*[a-zA-Z])(?=.\*_)[a-zA-Z_]+(\#(?=[a-zA-Z]+$)[a-zA-Z]\*)?$ | wordle帮助，大概长成`_cho#abd` |
 
 ### 杂项
 
