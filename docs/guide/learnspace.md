@@ -13,11 +13,7 @@
 
 ## 生电
 
-::: tip PL的生电教程
-
-[https://docs.qq.com/doc/DSHFZYXZBSmRJU09h](https://docs.qq.com/doc/DSHFZYXZBSmRJU09h)
-
-:::
+考虑到 1.20 该过渡版本对游戏机制的改变极大，我不建议你现在去学习生电。或许先去看看建筑是一个更好的选择？
 
 ## 建筑
 
@@ -45,21 +41,13 @@
 
 :::
 
-::: tip TwkBezierTemplate贝塞尔曲线放样插件教程
-
-一言以蔽之，这个一个用于生成[贝塞尔曲线](https://zhuanlan.zhihu.com/p/344934774)并根据模板生成曲线的插件。
-
-这个插件在FDCC与PPF上有部署。
-
-[https://space.bilibili.com/21192142/channel/collectiondetail?sid=1322985](https://space.bilibili.com/21192142/channel/collectiondetail?sid=1322985)
-
-:::
+放样插件挂了。
 
 ## 服务器运维
 
 ### 核心(Server Core)
 
-::: tip 服务端架设 & MUA相关技术文档
+::: tip 服务端：从入门到入土
 
 [https://docs.mualliance.cn/zh/dev](https://docs.mualliance.cn/zh/dev)
 
@@ -67,9 +55,17 @@
 
 ### 崩溃报告
 
-::: tip PL崩溃报告宝典
+由于近年来的崩溃愈发逆天，崩溃报告宝典不再更新。下面给出了北葵的崩溃报告大全，然而在面对现在的阴间崩溃报告有些力不从心。崩溃报告话术合集基本能涵盖所有常见报错，但是缺少问题的特征；此外对于服务器报错与含有自制闭源 mod 的整合包报错无能为力。（哪有人只会写 mod 不会修自己 mod 的 bug 的？）
 
-[/guide/tutorial/crashreport/](/guide/tutorial/crashreport/)
+::: tip 崩溃报告大全（北葵）
+
+https://www.bilibili.com/read/readlist/rl336711
+
+:::
+
+::: tip 炸鸭崩溃报告话术合集
+
+https://cloud.fdc.jingyijun.xyz/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.txt
 
 :::
 
@@ -81,9 +77,9 @@
 
 ## 插件开发
 
-::: tip InsidePlugins 补订《插件开发日记》
+::: tip《插件开发日记》
 
-[https://plugindiary.pvpin.org/](https://plugindiary.pvpin.org/)
+https://plugin-diary.pages.dev/
 
 :::
 
