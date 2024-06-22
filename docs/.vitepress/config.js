@@ -25,7 +25,7 @@ export default {
 
         nav: [
             { text: '复读指南', link: '/guide/' },
-            { text: '动态', link: '/news/' },
+            //{ text: '动态', link: '/news/' },
             // { text: '世界树的故事', link: '/the-tree/' },
             { text: '关于', link: '/about/' },
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
