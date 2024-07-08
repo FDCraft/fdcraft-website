@@ -20,19 +20,16 @@
 
 ### MC
 
-| 指令                     | 返回内容                 |
-| ------------------------ | ------------------------ |
-| mcstatus                 | MC服务器状态查询         |
-| mcver                    | MC最新版本查询           |
-| leavesver                | Leaves服务端最新版本查询 |
+| 指令      | 返回内容                 |
+| --------- | ------------------------ |
+| mcstatus  | MC服务器状态查询         |
+| mcver     | MC最新版本查询           |
+| leavesver | Leaves服务端最新版本查询 |
+| wiki      | 查找mcwiki               |
 
 ### B站推送
 
 见 https://github.com/Well2333/nonebot-plugin-bilichat 。
-
-### 骰子娘
-
-见 https://github.com/abrahum/nonebot_plugin_cocdicer 。
 
 ### 表情包
 
@@ -40,7 +37,6 @@
 | ----------------- | --------------------------------- |
 | capoo            | 随机capoo               |
 | 龙图 [num]      | 随机龙图                          |
-| neko      | 随机猫猫                |
 | cat [code]    | HTTP猫猫 |
 | bunny        | 随机小兔兔               |
 | 白圣女 \| bsn | 随机白圣女 |
@@ -68,6 +64,10 @@
 | handle                                                       | 汉兜                           |
 | maze \[-r --rows \<ROWS\>\] \[-c --cols \<COLUMNS\>\]        | 走迷宫，使用WASD，转角自动转   |
 | ^(?=.\*[a-zA-Z])(?=.\*_)[a-zA-Z_]+(\#(?=[a-zA-Z]+$)[a-zA-Z]\*)?$ | wordle帮助，大概长成`_cho#abd` |
+| 抽老婆                                                       | 抽老婆                         |
+| 换老婆                                                       | 不喜欢，换一个老婆！           |
+| 老婆关系图                                                   | 查看群友的关系                 |
+| 决斗 [@]                                                     | 与某人进行决斗                 |
 
 ### 杂项
 
@@ -75,4 +75,4 @@
 | ----------------------- | ---------------- |
 | batitle [text]\|[text2] | 碧蓝档案标题生成 |
 | [emoji]+[emoji]         | Emoji合成        |
-| muteme                  | 禁言自己         |
+| [回复] 保存             | 获取表情包直链   |
