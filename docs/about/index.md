@@ -30,8 +30,8 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | 状态        | ![复读世界𒆙](https://minecraftlist.com/servers/mc.fdc.jingyijun.xyz/banner.svg) |
 | Java 版地址 | mc.fdc.jingyijun.xyz，使用`/server fdcc`进入镜像服           |
 | 基岩版地址  | mc.fdc.jingyijun.xyz，端口为19132                            |
-| 兼容版本    | JE 1.20.1 & BE                                               |
-| 特性版本    | JE 1.20.1                                                    |
+| 兼容版本    | JE 1.21 & BE                                                 |
+| 特性版本    | JE 1.21                                                      |
 | 核心类型    | Leaves                                                       |
 
 ### 【小游戏服】Playground
@@ -47,7 +47,7 @@ QQ 群：[1037308494](https://qm.qq.com/cgi-bin/qm/qr?k=5UByHLWaGmk0sAgFSGGYx78F
 | 代号           | ppf                                                                               |
 | -------------- | --------------------------------------------------------------------------------- |
 | 服务器地址     | 进入fdc后使用指令 `/server ppf` 进入                                                  |
-| Minecraft 版本 | JE 1.20.4                                                                  |
+| Minecraft 版本 | JE 1.21                                                                  |
 | 核心类型    | Leaves                                                               |
 
 ### 【模组探索服】

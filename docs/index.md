@@ -9,7 +9,7 @@ hero:
   actions:
   - theme: brand
     text: 开始
-    link: /guide/newbie
+    link: /guide/
   - theme: alt
     text: 动态
     link: /news/
