@@ -34,27 +34,23 @@ set：分组，在旦星一号上将会出现在哪个组中。
 
 icon：这个标记点在旦星一号上的图标，与set-id对应。
 
-| 分组       | set-id    | icon       |
-| ---------- | --------- | ---------- |
-| 生电机器   | machine   | silverstar |
-| 观赏性建筑 | spectacle | bighouse   |
-| 私宅       | house     | goldstar   |
-| 传送门     | portal    | portal     |
+| 分组       | 分组id    | 分组默认icon |
+| ---------- | --------- | ------------ |
+| 生电机器   | machine   | silverstar   |
+| 观赏性建筑 | spectacle | bighouse     |
+| 私宅       | house     | goldstar     |
+| 传送门     | portal    | portal       |
 
 id：标记的唯一标识符。其命名规则与该建筑的属性与位置相对应，从上往下依次匹配。
 
-| 分组                | id与规则，?代表序号                                   |
-| ------------------- | ----------------------------------------------------- |
-| 无论在哪的私宅      | house?，多个私宅为house\_?\_?，仅用于house set        |
-| 主世界-工业区       | industry_?                                            |
-| 主世界-村庄         | village_?                                             |
-| 主世界-沙漠聚居点   | desert_?                                              |
-| 主世界-住宅区       | residential_?                                         |
-| 下界                | nether_?，双维度机器相应的下界端id为individual_0?     |
-| 下界传送门          | portal_?，仅用于portal set                            |
-| 末地                | end_?                                                 |
-| 主世界-非集群的机器 | individual_?，双维度机器相应的下界端id为individual_0? |
-| 主世界-非集群的建筑 | individual_building_?                                 |
+| 分组           | id与规则，?代表序号                                 |
+| -------------- | --------------------------------------------------- |
+| 无论在哪的私宅 | house?，多个私宅为house\_?\_?，仅用于house set      |
+| 主世界-工业区  | overworld_?，双维度机器相应的下界端id为overworld_0? |
+| 下界           | nether_?，双维度机器相应的下界端id为nether_0?       |
+| 下界传送门     | portal_?，仅用于portal set                          |
+| 末地           | end_?                                               |
+| 观赏建筑       | spectacle_?                                         |
 
 #### 标记点删除
 
