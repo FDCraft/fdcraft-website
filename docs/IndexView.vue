@@ -12,47 +12,47 @@
         <h2>四周目画廊</h2>
 
         <div class="x-imgs">
-            <img src="https://raw.gitcode.com/GLDYM/FDCraftImagesBed/blobs/4dd435bd2a28f9d9d4b57c7f6b0ee1b30e9eb615/1.webp" alt="服务器图片展示" />
-            <img src="https://raw.gitcode.com/GLDYM/FDCraftImagesBed/blobs/558d2bdc4ad9faf5b0b54d17ec9e5d9c4423199a/2.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img4/1.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img4/2.webp" alt="服务器图片展示" />
         </div>
 
         <h2>三周目画廊</h2>
 
         <div class="x-imgs">
-            <img src="/img/gallary/2023-03-22_00.07.09.webp" alt="服务器图片展示" />
-            <img src="/img/gallary/2023-03-21_13.39.18.webp" alt="服务器图片展示" />
-            <img src="/img/gallary/2023-03-21_13.19.32.webp" alt="服务器图片展示" />
-            <img src="/img/gallary/2023-03-21_13.39.09.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img3/2023-03-22_00.07.09.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img3/2023-03-21_13.39.18.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img3/2023-03-21_13.19.32.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img3/2023-03-21_13.39.09.webp" alt="服务器图片展示" />
         </div>
 
         <h2>二周目画廊</h2>
 
         <div class="x-imgs">
-            <img src="/img_old/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
-            <img src="/img_old/7RCMFCENIE9XDJWPY1V77JDECCFPX2LXEEPLSS3JIKEP5MKM.webp" alt="服务器图片展示" />
-            <img src="/img_old/ONI4MW2H0JVTRJBN8E7MO6AK9WBHORC2XTL0CZCCZRVUEIZFRBSCSJ8LC81PI.webp" alt="服务器图片展示" />
-            <img src="/img_old/1SHEODILJFKET4VDJAIL6ERFBERA2EA7DK1SKW0NDOAPC8NI2HGPT.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/ICVPRO0JK6VDP52WDEO93BFSDV3OYWLBIUDP1EG.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/7RCMFCENIE9XDJWPY1V77JDECCFPX2LXEEPLSS3JIKEP5MKM.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2//ONI4MW2H0JVTRJBN8E7MO6AK9WBHORC2XTL0CZCCZRVUEIZFRBSCSJ8LC81PI.webp" alt="服务器图片展示" />
+            <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/1SHEODILJFKET4VDJAIL6ERFBERA2EA7DK1SKW0NDOAPC8NI2HGPT.webp" alt="服务器图片展示" />
         </div>
 
         <h2>合影</h2>
 
-        <img src="/img/2023-01-21_21.54.31.webp" alt="除夕合影（还有交大的同学一起~）" />
+        <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img3/2023-01-21_21.54.31.webp" alt="除夕合影（还有交大的同学一起~）" />
 
         <p class="desc">2023/1/21 除夕合影</p>
 
-        <img src="/img_old/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
+        <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/8a670318d98c454699a7205adfddbeba.webp" alt="国庆合影（还有交大的同学一起~）" />
 
         <p class="desc">2022/10/1 国庆合影</p>
 
-        <img src="/img_old/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
+        <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/f6cbbe36e6684ff9a588d74a253e4c61.webp" alt="中秋合影（还有交大的同学一起~）" />
 
         <p class="desc">2022/9/10 中秋合影</p>
 
-        <img src="/img_old/482017EB4CCD40D894AB766867409E86.webp" alt="社团落成合影" />
+        <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2/482017EB4CCD40D894AB766867409E86.webp" alt="社团落成合影" />
 
         <p class="desc">2022/3/8 社团落成合影</p>
 
-        <img src="/img_old/MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
+        <img src="https://git.acwing.com/Polaris_Light/fdcraftimagesbed/-/raw/master/img2//MKJNOAOBPOE9ADPN1NACJJ3IAAF77LOEIOH1RFXUIVOYEO6LJS86.webp" alt="中秋合影" />
 
         <p class="desc">2021/9/21 中秋合影</p>
 
