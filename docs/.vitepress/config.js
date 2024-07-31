@@ -162,6 +162,10 @@ export default {
                     text: '资料查询',
                     items: [
                         {
+                            text: '数据包列表',
+                            link: '/guide/datapacks'
+                        },
+                        {
                             text: '旦星 SPS',
                             link: '/guide/sps'
                         },

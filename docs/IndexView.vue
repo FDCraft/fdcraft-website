@@ -9,6 +9,13 @@
 
         <p class="desc">由 <a href="https://minecraftlist.com" target="_blank">minecraftlist.com</a> 提供状态监测服务</p>
 
+        <h2>四周目画廊</h2>
+
+        <div class="x-imgs">
+            <img src="https://raw.gitcode.com/GLDYM/FDCraftImagesBed/blobs/4dd435bd2a28f9d9d4b57c7f6b0ee1b30e9eb615/1.webp" alt="服务器图片展示" />
+            <img src="https://raw.gitcode.com/GLDYM/FDCraftImagesBed/blobs/558d2bdc4ad9faf5b0b54d17ec9e5d9c4423199a/2.webp" alt="服务器图片展示" />
+        </div>
+
         <h2>三周目画廊</h2>
 
         <div class="x-imgs">
