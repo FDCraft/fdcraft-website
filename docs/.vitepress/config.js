@@ -56,18 +56,6 @@ export default {
                         link: 'https://mc.sjtu.cn/'
                     },
                     {
-                        text: '山商 Minecraft 煤炭社',
-                        link: 'https://www.mualliance.ltd/archives/463'
-                    },
-                    {
-                        text: '燕山大学 Minecraft 学生同好者协会',
-                        link: 'https://www.ysumc.club/'
-                    },
-                    {
-                        text: '塔里木大学方块协作社',
-                        link: 'https://www.tarucraft.club/'
-                    },
-                    {
                         text: 'MUA',
                         link: 'https://mualliance.ltd/'
                     },
