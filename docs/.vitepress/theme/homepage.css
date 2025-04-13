@@ -3,18 +3,27 @@
     max-width: 100%;
 }
 
+.homepage * {
+    max-width: 100%;
+}
 
 .homepage h2 {
     color: #6e6e73;
     font-size: 1.2rem;
     border: none;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .homepage .x-imgs {
     display: flex;
+    margin: auto;
     overflow-x: auto;
+    /* width: 600px; */
+    max-width: 100%;
 }
 
-.homepage .desc {
-    color: #999;
+.homepage .x-imgs img {
+    /* width: 600px; */
+    max-width: 100%;
 }

@@ -1,3 +1,9 @@
 .history
 node_modules
 dist
+yarn.lock
+.vscode
+.vitepress/cache
+cache
+
+Images/
