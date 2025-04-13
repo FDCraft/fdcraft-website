@@ -35,15 +35,15 @@ export default {
                 text: '旦星 SPS',
                 items: [
                     {
-                        text: '旦星一号',
+                        text: '旦星一号（暂不可用）',
                         link: 'http://mc.fdc.jingyijun.xyz:20410/'
                     },
                     {
-                        text: '旦星二号',
+                        text: '旦星二号（暂不可用）',
                         link: 'http://mc.fdc.jingyijun.xyz:20411/'
                     },
                     {
-                        text: '旦星三号',
+                        text: '旦星三号（暂不可用）',
                         link: 'http://mc.fdc.jingyijun.xyz:27216/'
                     }
                 ]
@@ -62,6 +62,10 @@ export default {
                     {
                         text: '牛腩小镇',
                         link: 'https://www.newnan.city/'
+                    },
+                    {
+                        text: 'Christina Network',
+                        link: 'https://christina.network/'
                     }
                 ]
             }
