@@ -31,23 +31,23 @@ export default {
             { text: '用户中心', link: 'https://auth.fdc.jingyijun.xyz' },
             { text: '复读百科', link: 'https://docs.qq.com/doc/DR0lJYVhWcGZUa0lk' },
             { text: '资源库', link: 'https://cloud.fdc.jingyijun.xyz' },
-            {
-                text: '旦星 SPS',
-                items: [
-                    {
-                        text: '旦星一号（暂不可用）',
-                        link: 'http://mc.fdc.jingyijun.xyz:20410/'
-                    },
-                    {
-                        text: '旦星二号（暂不可用）',
-                        link: 'http://mc.fdc.jingyijun.xyz:20411/'
-                    },
-                    {
-                        text: '旦星三号（暂不可用）',
-                        link: 'http://mc.fdc.jingyijun.xyz:27216/'
-                    }
-                ]
-            },
+            //{
+            //    text: '旦星 SPS',
+            //    items: [
+            //        {
+            //            text: '旦星一号（暂不可用）',
+            //            link: 'http://mc.fdc.jingyijun.xyz:20410/'
+            //        },
+            //        {
+            //            text: '旦星二号（暂不可用）',
+            //            link: 'http://mc.fdc.jingyijun.xyz:20411/'
+            //        },
+            //        {
+            //            text: '旦星三号（暂不可用）',
+            //            link: 'http://mc.fdc.jingyijun.xyz:27216/'
+            //        }
+            //    ]
+            //},
             {
                 text: '友情链接',
                 items: [
@@ -183,7 +183,7 @@ export default {
         },
         footer: {
             // message: '基岩社欢迎你！',
-            copyright: 'Copyright © 2020-present KYLN24 & 基岩社'
+            copyright: 'Copyright © 2020-present FDCraft & 基岩社'
         },
         docFooter: {
             prev: '上一页',
